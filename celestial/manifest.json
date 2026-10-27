@@ -1,0 +1,38 @@
+{
+  "Version": "1.0.0",
+  "ManifestId": "celestial-1.0.0",
+  "Files": [
+    {
+      "Path": "system/L2.ini",
+      "Sha256": "BC2E6DBEF15129C8A2625C6D26F4B553777071D11276916B0D94361B99310085",
+      "Size": 4784,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.0/system__L2.ini"
+    },
+    {
+      "Path": "system/Interface.u",
+      "Sha256": "BF247CD00292479C26D8570E9769499D0756F66289BC5A42A7FCFF453184E040",
+      "Size": 8806278,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.0/system__Interface.u"
+    },
+    {
+      "Path": "system/InterfaceClassic.u",
+      "Sha256": "828C92653EBF053FDF41CE7BEE92EBB2C5DDE18F231A88372584EB4D6787E31D",
+      "Size": 9124798,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.0/system__InterfaceClassic.u"
+    },
+    {
+      "Path": "system/Interface.xdat",
+      "Sha256": "A4DA3D4334D5398CA11F3EA635956927BFE985CC36EFA54D66E319E35EBAEA82",
+      "Size": 6968416,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.0/system__Interface.xdat"
+    },
+    {
+      "Path": "system/InterfaceClassic.xdat",
+      "Sha256": "96F8233B6C0AA174EE5F32CE601E42EFFF48183C9B3F5F6A6BA97FE1A787F7A0",
+      "Size": 7561695,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.0/system__InterfaceClassic.xdat"
+    }
+  ],
+  "RemovedFiles": [],
+  "Signature": "mwh8Jb6VDP1upQmexvay9qfk4FceOUx\u002BIZohWWbVM4EcVBLtab3HW4quurfYs1d3IVtIarOrHlO/PoB34QpMWJC7rMhkGTuj3nZFsIr9YGRvn6Z0LaYAlNfGjcSYcxZ\u002BVrLsbbBXXSoI095OQkCG5YTTA/M4ZgzmTKj6zp1jbTUJkL3/MAZq8H4E2iZ0\u002BXSTJH7BahSp60VKej8uKHJNpAz7rHnCi830aJtkYqRAjcINCVCXYMMgNuMGsCxghRjpS7fOuxuJmpbDaP/IVl25yG/PSZmtQOHn2L5kU9H9CGzzquLXJHt1n24zIGIcNpR\u002BG6dNJN7g384dO3QYsB5CMqG/jT76iD9YG3LZVr5\u002BIUalNRqhTT4\u002B/OcJ/18G0M3egllhLDmR/8FAGKvBohYutU86CEtzoJtB3eqovGaBqn\u002BtDnqXb4CtNMl\u002B7r\u002BT81Rcna\u002BfkmCbnYvgAYFzmH8JYLr15vUK8UrDB5ls\u002BYl\u002Bzo4wsNnrAQl\u002BGfXx3sThi48z"
+}
