@@ -1,7 +1,25 @@
 {
-  "Version": "1.0.0",
-  "ManifestId": "celestial-1.0.0",
+  "Version": "1.0.1",
+  "ManifestId": "celestial-1.0.1",
   "Files": [
+    {
+      "Path": "system/eu/RaidData_ClassicAden.dat",
+      "Sha256": "6B211719F4E6A56E45ED1E15B5F4AD012B7EB5EE11599020B965076F84927257",
+      "Size": 3760,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.1/system__eu__RaidData_ClassicAden.dat"
+    },
+    {
+      "Path": "system/es/RaidData_ClassicAden.dat",
+      "Sha256": "6B211719F4E6A56E45ED1E15B5F4AD012B7EB5EE11599020B965076F84927257",
+      "Size": 3760,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.1/system__es__RaidData_ClassicAden.dat"
+    },
+    {
+      "Path": "system/pl/RaidData_ClassicAden.dat",
+      "Sha256": "6B211719F4E6A56E45ED1E15B5F4AD012B7EB5EE11599020B965076F84927257",
+      "Size": 3760,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.1/system__pl__RaidData_ClassicAden.dat"
+    },
     {
       "Path": "system/L2.ini",
       "Sha256": "BC2E6DBEF15129C8A2625C6D26F4B553777071D11276916B0D94361B99310085",
@@ -34,5 +52,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "mwh8Jb6VDP1upQmexvay9qfk4FceOUx\u002BIZohWWbVM4EcVBLtab3HW4quurfYs1d3IVtIarOrHlO/PoB34QpMWJC7rMhkGTuj3nZFsIr9YGRvn6Z0LaYAlNfGjcSYcxZ\u002BVrLsbbBXXSoI095OQkCG5YTTA/M4ZgzmTKj6zp1jbTUJkL3/MAZq8H4E2iZ0\u002BXSTJH7BahSp60VKej8uKHJNpAz7rHnCi830aJtkYqRAjcINCVCXYMMgNuMGsCxghRjpS7fOuxuJmpbDaP/IVl25yG/PSZmtQOHn2L5kU9H9CGzzquLXJHt1n24zIGIcNpR\u002BG6dNJN7g384dO3QYsB5CMqG/jT76iD9YG3LZVr5\u002BIUalNRqhTT4\u002B/OcJ/18G0M3egllhLDmR/8FAGKvBohYutU86CEtzoJtB3eqovGaBqn\u002BtDnqXb4CtNMl\u002B7r\u002BT81Rcna\u002BfkmCbnYvgAYFzmH8JYLr15vUK8UrDB5ls\u002BYl\u002Bzo4wsNnrAQl\u002BGfXx3sThi48z"
+  "Signature": "eLse5kKUabj8lEfrfe1z7DqgZ5EP7RuSr9SOgIE7UKujocUV6i6GwS3kDCpqx8NFqd0ycukd2L81kJKq7Yeyh7mnA9JFcX8SDDyg74xs91BufQKQ4pbIzupFmBDv8dYF7z47FyEbbip/\u002BWuLVlp70x/4\u002B9IIocsKrIX1fbD28JaO0qfB6gYQ2x9uSnrzfcv8J/F8wAokHrhPCsDk4\u002BjXYthF\u002BNDrNICeE4kNX5GijmXaHmKvMfcn0XkrQU\u002BZdhGLgaFeB8AY3ZvXFY4/pycQagwK3W2AHcEgzbNSUbbHpUJvo9aVrg1IvW6u/j3xIjDxvTUhpTVNPujrqXC1KI7OwYNt1xZZdfBfHrrp0hEj3sfcVObtKq9MuA7ZOsiK7H12x/a\u002BVCsOIICVCRHjBkf4SaSlUlsmcqRnbEqRp0Rsb\u002B85EoT6ncFRZk27Ploi03wGbB1JdfA9Liqkxyc7NQ8sFRhSxBfvMUAEICBmur\u002B9rO1HnSLZPEwdvfZCIRJ91xIB"
 }
