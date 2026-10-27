@@ -1,0 +1,18 @@
+[
+  {
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.0",
+    "order": 1,
+    "id": "celestial-1.0.0",
+    "description": "Atualizacao e reparo pelo GitHub. Conexao pela mesma rede ZeroTier. Clique em START para jogar.",
+    "date": "2026-10-26"
+  },
+  {
+    "category": "informacoes",
+    "title": "Como entrar",
+    "order": 2,
+    "id": "zerotier",
+    "description": "Mantenha o ZeroTier conectado a rede 2873fd00f2fceffc. O servidor precisa estar ligado. O launcher detecta o cliente automaticamente.",
+    "date": "2026-10-26"
+  }
+]
