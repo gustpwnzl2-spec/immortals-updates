@@ -1,6 +1,15 @@
 [
   {
     "category": "atualizacoes",
+    "title": "Celestial 1.0.1 — Bosses no mapa",
+    "order": 0,
+    "id": "celestial-1.0.1",
+    "description": "Adicionados 72 marcadores ao mapa, completando 42 bosses Elite e 50 High Elite. Atualize pelo launcher e reabra o jogo para carregar os novos ícones.",
+    "date": "2026-10-27",
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.1"
+  },
+  {
+    "category": "atualizacoes",
     "title": "Celestial 1.0.0",
     "order": 1,
     "id": "celestial-1.0.0",
