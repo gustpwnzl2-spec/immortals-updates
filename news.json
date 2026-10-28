@@ -1,0 +1,11 @@
+[
+  {
+    "id": "raid-teleport-v1.0.12",
+    "category": "atualizacoes",
+    "title": "v1.0.12 — Raid Teleport",
+    "date": "2026-10-28",
+    "description": "Raid Teleport com busca por boss e atalhos para Core, Orfen, Queen Ant, Zaken e Baium. As dolls identificam os TPs 1, 2 e 3 e podem ser arrastadas para a barra com textura e numeração. Acesso pelo ALT+X. Core — TP 1 disponível; os demais destinos aguardam configuração. Feche o jogo e clique em ATUALIZAR no launcher.",
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/v1.0.12",
+    "order": 0
+  }
+]
