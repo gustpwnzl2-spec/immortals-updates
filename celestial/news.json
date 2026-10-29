@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.2",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.2",
+    "description": "Immortals Server; Starter Kit full C para novos personagens; Premium Ticket de 30 dias e Premium Account Effect atualizado; novas skins de armas, armaduras, capas e escudos no Ornaments, com ativação corrigida; DPS Meeter com listeners corrigidos e Raid Teleport substituem 4game/Aden Laboratory, com ícones originais ajustados; Saved Accounts; ajustes de Kill Effect e Skill Priority; login e loading responsivos, preservando as imagens. Raid Teleport: destinos adicionais aguardam configuração.",
+    "date": "2026-10-29",
+    "order": -1,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.2"
+  },
+  {
     "category": "atualizacoes",
     "title": "Celestial 1.0.1 — Bosses no mapa",
     "order": 0,
