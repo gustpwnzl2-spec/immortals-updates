@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.13",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.13",
+    "description": "Corrige a visibilidade das setas para alternar o tipo de Pattern: botoes agora ficam a frente do painel.",
+    "date": "2026-11-02",
+    "order": -12,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.13"
+  },
+  {
     "id": "celestial-1.0.12",
     "category": "atualizacoes",
     "title": "Celestial 1.0.12",
