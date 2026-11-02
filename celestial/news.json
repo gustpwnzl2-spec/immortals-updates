@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.7",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.7",
+    "description": "Renomeia a janela para Awakening Abilities e exibe os 20 icones nativos de Warrior com contadores zerados e limites da referencia. Sem conceder pontos ou bonus.",
+    "date": "2026-11-02",
+    "order": -6,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.7"
+  },
+  {
     "id": "celestial-1.0.6",
     "category": "atualizacoes",
     "title": "Celestial 1.0.6",
