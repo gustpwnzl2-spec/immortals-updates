@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.6",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.6",
+    "description": "Adiciona acesso a Abilities no status do personagem e integra abertura e presets A/B persistentes. Arvores e bonus aguardam configuracao.",
+    "date": "2026-11-02",
+    "order": -5,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.6"
+  },
+  {
     "id": "celestial-1.0.5",
     "category": "atualizacoes",
     "title": "Celestial 1.0.5",
