@@ -1,18 +1,18 @@
 {
-  "Version": "1.0.19",
-  "ManifestId": "celestial-1.0.19",
+  "Version": "1.0.20",
+  "ManifestId": "celestial-1.0.20",
   "Files": [
     {
       "Path": "system/eu/Skillgrp_ClassicAden.dat",
-      "Sha256": "B5E3C7AD1366DCBB88342B1AC77CAE7D7876DD285505DB493D8ECF1D9B67D390",
+      "Sha256": "861A040DA41BBCA0C9BF0ABFDB8111A370155D9C1C13B217CC4B09C1FEBC689D",
       "Size": 530352,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.19/system__eu__Skillgrp_ClassicAden.dat"
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.20/system__eu__Skillgrp_ClassicAden.dat"
     },
     {
       "Path": "system/eu/SkillName_ClassicAden-eu.dat",
-      "Sha256": "8F65483E4837F45D906ACFDB52FA73EE2B8C446212FEA5DA23624DF5EF103A6D",
-      "Size": 966960,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.19/system__eu__SkillName_ClassicAden-eu.dat"
+      "Sha256": "C7BF35AC6038702429727844B692299C9757B89121DA8FF69EBAEB68EB858B65",
+      "Size": 967728,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.20/system__eu__SkillName_ClassicAden-eu.dat"
     },
     {
       "Path": "system/Interface.u",
@@ -286,5 +286,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "O4cvZ2M3vgKuyIYiT7i8oDrZ1SVm3B/P6NZ55cKVjxUEsTbT9H\u002BJvpWT7Nwq85bJzRUGmdSFX3oTYFAqtFduGt23lt8WRdswAzDaA1lfmdTMXr2TtGsxIGmOtzhb2Vcp\u002BOqloYd1ysREIP1F6goof8ElWjg3DZsAsjmOSoXQBnjm/84IFgsecAe2HERmyXNEslWldIWaGWjdt7xQ0Hm\u002B/oyj65Y2HwQdEr9fuIllqkg9cl6A\u002BCbNQX\u002BZPCXsOnmYqwCMEjqog5Uql\u002BPWnFTyH/\u002BHn10kWSryPLIQCzd5NiOHJ\u002BZArjTVyL2qpnLKf6G3U/VjiMuJWa6Pi\u002B6b0T9RLJTIOiDcNeJZEJne1ndChIdvuTaHfTmfMyN0Xi0HeGoXyhkQF3HeT3CpL1IuUmM33M2t5JtvXw6D6wNOYabUA\u002BCHKwsuq0NUGJYP3teezKTJMXdfIxMWZBKZmY0tqeC5TfZ/FM42PBPx0gLjxANz72SP3N2xvDk/gXp0/hT/ofFu"
+  "Signature": "qmlmJNRYeL3IP5Z3uiWpJRIyv2\u002BCvGjhmn2lTyg\u002Bc96zM6ZLAzuSTu2N/uvGhHoECgGETGWfdBzOllAOjWJvuYPkyqYpgVf/CFOg9SUELpAtStV734mYJlWN72FrYB5go7lRW8\u002B1r/R1B\u002BxgCbkMBnGoXmeWIMiaKYwOLGp5A6Rz8B0Zi3fyF63KGc4MOGvBKGYEj7AAv/mucOeDgIaXpXyfBwJDllOQXQmh/h3Ut3K07KPlLarOLIdG4Eqh2mfsPPdC0lwPYKxUA7PT4Wsy8Q8gmxkezJPAVAlgm2mg3\u002B3h1R5l1qmos7dG5sh7VOTWZjifVj0OCGkyyCB/c5EDR\u002B9WEqoUqxB7VLyNm\u002BK\u002BnX97CtRnEe4RTKyZKG1ReNRgKaoq5MA6elNgfX/dzP8yVLFNWmOKJR7De7swfFteA4mVVXk\u002BDhvSMm67dNGViUerJQg63X25rPnvEfZg9FA9IGz3BUd\u002BcBd7yPEGqIIjm6JSR1cMiCauG\u002BIhIARrw4yk"
 }
