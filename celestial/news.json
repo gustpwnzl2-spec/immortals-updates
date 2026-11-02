@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.17",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.17",
+    "description": "Alinhamento vertical das setas de Pattern com os nomes das dyes.",
+    "date": "2026-11-02",
+    "order": -16,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.17"
+  },
+  {
     "id": "celestial-1.0.16",
     "category": "atualizacoes",
     "title": "Celestial 1.0.16",
