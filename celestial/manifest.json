@@ -1,18 +1,18 @@
 {
-  "Version": "1.0.13",
-  "ManifestId": "celestial-1.0.13",
+  "Version": "1.0.14",
+  "ManifestId": "celestial-1.0.14",
   "Files": [
     {
       "Path": "system/Interface.xdat",
-      "Sha256": "695EC831230C4B70A8157A9BD7C5C5417DF2F268B4E95E8ED20ECB34F8AF271B",
-      "Size": 7146394,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.13/system__Interface.xdat"
+      "Sha256": "79BD0CB1F0D8EB0184E86AFA907CE319720B90A27FE385D352165BCB5BC01972",
+      "Size": 7146162,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.14/system__Interface.xdat"
     },
     {
       "Path": "system/InterfaceClassic.xdat",
-      "Sha256": "3001CA36D8DB020B7119D8F8175D3DF3A9984D27AC2F7FFDD5E8A0BD840CEDC2",
-      "Size": 7739673,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.13/system__InterfaceClassic.xdat"
+      "Sha256": "1EB608106655A2B8E7AB0C9B6289BBF6CD334685F0F50E944E64F49673A82DF9",
+      "Size": 7739441,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.14/system__InterfaceClassic.xdat"
     },
     {
       "Path": "system/Interface.u",
@@ -286,5 +286,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "XWXQ/eVMSFnukK5dHAgJLixRho6cHxdpt8EXwLuXdxkkOYrdQNLle9i\u002Bt8cEkpmM5amO7fsuL5gYgWq4a8vhtozqBagGPatnZAdpqRLGd\u002BybMyElOVeqhbbgbx4peqewVBhYzM2hx/CpYn2XrgKc2Z0WkymViCiWm6aWQ82XqhASQ4Au8gNxLCXFlt2/069vLmuEzT/cu1OM3t3A0sf63CG48sek47VHt6qbdapVTWkLTG0/5XWkT1aPcrAPbaycqKI6Oj4a9C21G6WNxpikqQ9bi\u002B/SLyzAmFdZPpTqe\u002B6\u002BszfD62b2GTcHqPwVVp9HaM\u002B6k9YDX\u002Bc7tzImX5O1eKSJyoOdzdPCrS5FQ1mkyZp4Udh0nQVYHLagMQqcT2BCgCfkG8Hqz1RT9S/9KkcOOQtiQwA2mnnMO94pZEgrsQmlGFP7RuohRu4w4r5k42saTA\u002BXfVKMDVA6IQIXmxOGg9eCc0z1jRgZEFVGxbyvSc\u002BH4mCq/g5ep1mZs/vb8kp5"
+  "Signature": "yZfV5a7gkSrpRtOtzKxXCJkCNIZo0z6g26ctxXU/QaxN4jUojFTEICME3hYQw533g53UEC6Wv46zM4GlhQio70DKcX9Tcb\u002Bc9JlltMzw5/o88DSwB7/TlEufBmNcfT\u002BmL\u002BeNfCQmVVJrvM6vfLLQ6ySEXjgSpxabLOR72H9iBda6UK/KqGAb8CvbXnEZxn/ywquDicicH8V3fqrX40gyRgLVNToXQhn2V0pptFMvorxThSpSW/yLb1T3KZgUePED1yTQHvum2G88wzs0selTSA0WGxMhUxCeE\u002BOSCke23f42GXzov781wEq/2M28D6z5RoWP2QzQ93QlVld1SpTZDkSFH8jtaBoc0F7oVQe0BHtte\u002BkLhl0hIxwVRcnRVXWrVlzehgc4vKzsBYe3vc1l2sgQaFW6AI2Il\u002BiSIH\u002Bkim0c1ThGrnKBZIogSPjzCQdA6L//HKmSp5I6IazHwfpGEfLlLW6GSsR2xkZNIglRYXlhHuuWdBrC5EhA10MNCL/5"
 }

@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.14",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.14",
+    "description": "Pattern: setas douradas claras, sem moldura e proximas aos titulos, seguindo a referencia visual. Mantem a troca e as escolhas salvas por A/B.",
+    "date": "2026-11-02",
+    "order": -13,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.14"
+  },
+  {
     "id": "celestial-1.0.13",
     "category": "atualizacoes",
     "title": "Celestial 1.0.13",
