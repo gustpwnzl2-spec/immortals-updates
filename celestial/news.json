@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.19",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.19",
+    "description": "Piloto Core e Priest Core: maldicoes especificas de 1 hora para o grupo vencedor por dano acumulado e seus clas.",
+    "date": "2026-11-02",
+    "order": -18,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.19"
+  },
+  {
     "id": "celestial-1.0.18",
     "category": "atualizacoes",
     "title": "Celestial 1.0.18",
