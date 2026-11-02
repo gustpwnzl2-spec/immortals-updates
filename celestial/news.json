@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.4",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.4",
+    "description": "Corrige o recorte dos botoes de diminuir e aumentar o inventario, preservando as texturas originais em 23x23 no tamanho minimo.",
+    "date": "2026-11-02",
+    "order": -3,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.4"
+  },
+  {
     "id": "celestial-1.0.3",
     "category": "atualizacoes",
     "title": "Celestial 1.0.3",
