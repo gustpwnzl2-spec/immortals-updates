@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.5",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.5",
+    "description": "Habilita Game Assistant na barra lateral e ativa Season Pass no servidor, mantendo as correcoes do chat e inventario.",
+    "date": "2026-11-02",
+    "order": -4,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.5"
+  },
+  {
     "id": "celestial-1.0.4",
     "category": "atualizacoes",
     "title": "Celestial 1.0.4",
