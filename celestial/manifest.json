@@ -1,30 +1,30 @@
 {
-  "Version": "1.0.17",
-  "ManifestId": "celestial-1.0.17",
+  "Version": "1.0.18",
+  "ManifestId": "celestial-1.0.18",
   "Files": [
     {
-      "Path": "system/Interface.xdat",
-      "Sha256": "7FE99BA7ECF115DE976F9D145842A19F22E5DE103F20F32B4C91FE983BE7D42B",
-      "Size": 7148024,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.17/system__Interface.xdat"
-    },
-    {
-      "Path": "system/InterfaceClassic.xdat",
-      "Sha256": "43D410C7E86FA0140A1D54D928566FC65C883DB16D13253E2FE74E67CCDB6397",
-      "Size": 7741303,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.17/system__InterfaceClassic.xdat"
-    },
-    {
       "Path": "system/Interface.u",
-      "Sha256": "1A5416D9C3F6A7215008E30A42ADEA923F53A1AAAEFA9D1C4CBBC514DABA1FB1",
-      "Size": 9008546,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.16/system__Interface.u"
+      "Sha256": "56683E97A2716E0FE4D171C7F35B9070B95266C911DF18838D1FC6DDDB8A3A74",
+      "Size": 9009621,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.18/system__Interface.u"
     },
     {
       "Path": "system/InterfaceClassic.u",
-      "Sha256": "ACD91FA0AAEC2FC57BBBB58FF72FE05B833B07EEEF4EED47EE035D518AFD97D0",
-      "Size": 9327015,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.16/system__InterfaceClassic.u"
+      "Sha256": "F5E118CA32E9B5BCD31AC852268C28C1A5AA9E84E9FDEC362B3102B1B3B09EA8",
+      "Size": 9328089,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.18/system__InterfaceClassic.u"
+    },
+    {
+      "Path": "system/Interface.xdat",
+      "Sha256": "7B61263A45C149BF2F2CC86DA4A256736ADD705B60B2392C8656392FE4DF55B8",
+      "Size": 7148520,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.18/system__Interface.xdat"
+    },
+    {
+      "Path": "system/InterfaceClassic.xdat",
+      "Sha256": "284A6EC98FD248132C3DB78D188ECD67A6BA1D0A2B0A65BAB8A9F3A18EE14959",
+      "Size": 7741799,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.18/system__InterfaceClassic.xdat"
     },
     {
       "Path": "system/eu/L2GameDataName.dat",
@@ -286,5 +286,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "JXaYtyumDwHLV0Pi7dilJGDP2efkzJjJyHJJUeePKF\u002B7nLTV4tAxi18hzYMAfALx04Dp5Y8vBf\u002BIjAsq3oAgOJyfP1jrn/OcKaoncuCK15TW7iBfxlJc8k6ehVgKYNpbqjXntiHbbnGR9zMTF4tQfdxVHei8oFqHP/rxNuHZIe2yqb1n2usYDEUA8n4yUtwkkChMvM0Qb71GuQ6CpAcPUSwkGfQG51f1F/QdF9pIqdf5/mnqslAj2JpQOXljhotGkgIvSyi/ixP8UOzePCeU3Y7Imko5w554awUPobjQHLxUGBgWZ3fwgGu9OPC5f7GflYq28PfIChoeHYkJFpw9sQ\u002BJYvw5MqK1uDn3dtxi3cNBVFcB\u002B8OGpLaZBpudyZxKjLLMMmM3tVZMdL9auuQFDLJamZlWQTL8Gt8InS/YRrR2WVfblj7ZYPk2hgHo34ADR3VF/H6DSLBHHy3MSggxz3a66Lg2q\u002BTws6bwvVc/HSYwCsTrvaJWpPfZmQ357VvC"
+  "Signature": "CPvT\u002BQBZ867MMLLPAkPoO\u002BrYVhtjMDOTcH686MlN0KVtlhOvGWMtPYCRC/hHi7qPsh59RuEM//sBf4V8IIFQw\u002Bxeb0gZixX1f5xdxY2zjHaJWvQS\u002BdOPkfmZQHK0yfdgbk2fDskrYHozwhZVrzFRbz1ezeWRNwQxQkE5H58y/knTQM2y/8sNI4Bxz8oa/8bqIadJtAudnroweJ6hx45mHTNIg08YOHW1BfM38Bte7szIGEjf6neAkUoLbkclQkaRV/35YdUKZ4pu\u002BCObg/d0dsbv\u002BtKs7PGb2nCPnAIS\u002BHfBlhsRS2rd0zM943O7wQ0IblgyMG/kTu54kdGAtC6OBk5dYfuZyksB4Xdm40u6XZQ3lY7PISl6ZqGS4Do4221mIrUiXtHV0orQXndb06b17IOMH6YsSuMIlNyj/BqftpzPdutgpr2W\u002BPFxRIKQ5mcor/7PjllIvKpcHWnrmxoU8hd\u002BfVnknEYUIYSSq0YPDPqjJnH0jA4gXA\u002Bksz8iqNKY"
 }
