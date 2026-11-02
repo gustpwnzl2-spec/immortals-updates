@@ -1,7 +1,31 @@
 {
-  "Version": "1.0.9",
-  "ManifestId": "celestial-1.0.9",
+  "Version": "1.0.10",
+  "ManifestId": "celestial-1.0.10",
   "Files": [
+    {
+      "Path": "system/Interface.u",
+      "Sha256": "9CAA874ED7FBC7824A2779D38C30C87792E071F86D5B77199E9872B7F078C04E",
+      "Size": 8996938,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.10/system__Interface.u"
+    },
+    {
+      "Path": "system/InterfaceClassic.u",
+      "Sha256": "A209F81DA9C49364B01C918BE65030AAFDA9584170880F1D28847CD7573FDC47",
+      "Size": 9315412,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.10/system__InterfaceClassic.u"
+    },
+    {
+      "Path": "system/Interface.xdat",
+      "Sha256": "C2C70AE04473709E82FBD493C793741F4620574743D31F414AC4E34DA1745548",
+      "Size": 7143186,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.10/system__Interface.xdat"
+    },
+    {
+      "Path": "system/InterfaceClassic.xdat",
+      "Sha256": "1ED48F187A843130D0934F627EF788B9C81B23D96A8058C1DB042F033CDF36FE",
+      "Size": 7736465,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.10/system__InterfaceClassic.xdat"
+    },
     {
       "Path": "system/eu/L2GameDataName.dat",
       "Sha256": "CB70CECB39D099C40DC6F8D22F466624D01946B1202E67C1F08EEFA4EF2DD748",
@@ -19,30 +43,6 @@
       "Sha256": "7016576FAE4DF153B536F2B0418ABB2DB9DE3F0CBAD606785A244EA9328D3969",
       "Size": 617264,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.9/system__eu__ItemName_ClassicAden-eu.dat"
-    },
-    {
-      "Path": "system/Interface.u",
-      "Sha256": "29ED410E5DBFC653ED026AE4DF63631B92D847B7CE8FAA11AF8A4C54B6884645",
-      "Size": 8989027,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.8/system__Interface.u"
-    },
-    {
-      "Path": "system/InterfaceClassic.u",
-      "Sha256": "5523482608B5D52A5C796DF3D245E88ECE7CD959E74D9D2FA57FD2C6B53545F0",
-      "Size": 9307501,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.8/system__InterfaceClassic.u"
-    },
-    {
-      "Path": "system/Interface.xdat",
-      "Sha256": "077294419596E923AE2FC0117779599CF222C4113E6DA9F011382037D334CD47",
-      "Size": 7316235,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.8/system__Interface.xdat"
-    },
-    {
-      "Path": "system/InterfaceClassic.xdat",
-      "Sha256": "3DF9433EB96A5A3B4E0C5715BC7423254B211421ABCCEA6E4BD4C94676C12610",
-      "Size": 7909514,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.8/system__InterfaceClassic.xdat"
     },
     {
       "Path": "Animations/ImmortalsWargOrc.ukx",
@@ -286,5 +286,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "qNT8U0jsf4\u002BJPdi2q0r8Wau314t9kiFpht12xDK\u002BEY3PH/JaPkmAKLB2X2nhmtpEMxOg4ctq/q1HXcgpaTdgvSznHF2J/dDGLUKxkZKTlh8z36/Bl8XT5F8EWJKcJi8XxF68XBSRq5hQgh0JTCh0OMMtRsx2nWl6d04TgpY3s5DmsRzCwqPt6I\u002B3K1crinnmaLyFl4BHQ5UxvX2UOfrizOBkMneZpY\u002BZj0NB7QheknmYpcVv3CKAeZ/oDRVFCzX0FjG0fQLcJzpvr5xN6zzKREfogX/k0QcU9Am2RkM05HVzfN5RxOlXTY12rRZr\u002BhAxVCJ5kJ\u002BE6z1EeyX16DNO0DXAoNe7AArBMH2j9IXb1/Buw1NEKXWEJzm0izlGpHu4PiebPXv0cQaieNZBshiMcjAqeQPAfg32HilDrE/ja/mAlLquo3jNfyoNcBifckJEA2az6vpV0qVMm\u002B7iZeHLOheWQj5QkGzkIw1dx1\u002BmFtviMEyqoeTI1c\u002B9B8ssjyXY"
+  "Signature": "cBKw8ULtO1v0UoAO56tr7R6BbxGInAKJNImZ6gzzcG\u002B7593NIiic7laE7h5geBxhBv1zdSsGCBqmGEcMWbzO6sYaGkXWQ8ABIYoSDu2oX6MKNwLQm4jVdic\u002BejeXwvnxyvW0bD6RrKLnn9jlzyUoufpQVke3iHRJyedLtJ3twTA8FQjL3bZL65KwAF6YO3/DK3sZh6csbMJG5F0ejtbokkirP6UkcFL3Y\u002Bp4M0Qy1LtZnLO7q9SfcSsjjdXVzjDrleWUFjxd1umORTbWlE0aWbbXHvs2GbMO35VHwvz4i7iAujGfnK6WoqOOjVGtx42qxY/cMN5NFrWvW7CKoE1haptStRfJTW5aegxEiqkL3PQZ7h7pDOHXYuhK9K9Q0QlDHq4UQ1EKwQ0caP5H11yWPP\u002Bdr2ICOqa1yyx\u002BLPkYA0GRWxlRv0/ZoqyVEnudhTQ4Lq05phlgzI4kVMni9/keI7VGv/TsVQwr4JD8gyBXNaOk6wvy7bav1Egc8Y9weDkI"
 }
