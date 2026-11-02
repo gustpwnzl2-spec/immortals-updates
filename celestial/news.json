@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.15",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.15",
+    "description": "Pattern: corrige o envio nativo do comando de troca. Setas com proporcao ajustada, imagem separada e area de clique maior; preserva selecoes A/B.",
+    "date": "2026-11-02",
+    "order": -14,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.15"
+  },
+  {
     "id": "celestial-1.0.14",
     "category": "atualizacoes",
     "title": "Celestial 1.0.14",
