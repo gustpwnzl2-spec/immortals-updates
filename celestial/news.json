@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.16",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.16",
+    "description": "Ajuste da area clicavel das setas de Pattern e diagnostico local da selecao de dyes.",
+    "date": "2026-11-02",
+    "order": -15,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.16"
+  },
+  {
     "id": "celestial-1.0.15",
     "category": "atualizacoes",
     "title": "Celestial 1.0.15",
