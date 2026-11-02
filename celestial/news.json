@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.11",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.11",
+    "description": "Setas para alternar STR, DEX, CON, INT, WIT e MEN nos Patterns mantendo o estagio. Escolhas de dyes e potenciais salvas por A/B junto aos equipamentos e Awakening Abilities.",
+    "date": "2026-11-02",
+    "order": -10,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.11"
+  },
+  {
     "id": "celestial-1.0.10",
     "category": "atualizacoes",
     "title": "Celestial 1.0.10",
