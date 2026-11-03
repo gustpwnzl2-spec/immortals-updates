@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.32",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.32",
+    "description": "Character Status agora mostra as classes na ordem Main / Sub, atualizando os nomes com os dados do personagem e preservando os botoes de Abilities e troca de classe.",
+    "date": "2026-11-03",
+    "order": -31,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.32"
+  },
+  {
     "id": "celestial-1.0.31",
     "category": "atualizacoes",
     "title": "Celestial 1.0.31",
