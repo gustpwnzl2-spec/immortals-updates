@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.23",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.23",
+    "description": "Player Inspect: historico com linhas nativas alinhadas, paginacao separada, fontes maiores, arte no cabecalho, simbolo da pontuacao e botao de fechar visivel.",
+    "date": "2026-11-02",
+    "order": -22,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.23"
+  },
+  {
     "id": "celestial-1.0.22",
     "category": "atualizacoes",
     "title": "Celestial 1.0.22",
