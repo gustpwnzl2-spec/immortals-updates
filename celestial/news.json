@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.30",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.30",
+    "description": "Corrigido o botao Awakening Abilities no Character Status para abrir a janela na classe principal e secundaria, preservando a troca de classes e os ajustes do inventario.",
+    "date": "2026-11-03",
+    "order": -29,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.30"
+  },
+  {
     "id": "celestial-1.0.29",
     "category": "atualizacoes",
     "title": "Celestial 1.0.29",
