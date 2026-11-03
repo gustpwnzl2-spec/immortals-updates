@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.34",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.34",
+    "description": "Nomes Main/Sub e tooltip de troca agora incluem todas as classes, com Elemental Weaver e Divine Templar. High Elf liberada no cupom; a classe ativa determina a raca e somente ela e alterada.",
+    "date": "2026-11-03",
+    "order": -33,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.34"
+  },
+  {
     "id": "celestial-1.0.33",
     "category": "atualizacoes",
     "title": "Celestial 1.0.33",
