@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.37",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.37",
+    "description": "Zaken Rose adicionada ao mapa e ao spawn permanente em Oren (102083,17905,-3072), seguindo respawn e teleporte dos priests, com atributos originais preservados.",
+    "date": "2026-11-03",
+    "order": -36,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.37"
+  },
+  {
     "id": "celestial-1.0.36",
     "category": "atualizacoes",
     "title": "Celestial 1.0.36",
