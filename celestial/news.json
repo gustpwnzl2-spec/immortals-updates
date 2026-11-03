@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.24",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.24",
+    "description": "Player Inspect: proporcoes ajustadas pela referencia, fontes compactas, oito linhas de 40px, navegacao lateral e cabecalho suavizado. Ajuste visual sem reinicio do servidor.",
+    "date": "2026-11-02",
+    "order": -23,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.24"
+  },
+  {
     "id": "celestial-1.0.23",
     "category": "atualizacoes",
     "title": "Celestial 1.0.23",
