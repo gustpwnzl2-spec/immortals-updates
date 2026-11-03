@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.39",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.39",
+    "description": "Tratamento dos botoes + e - em painel independente, preservando o script original de abertura do inventario e o tamanho salvo por resolucao.",
+    "date": "2026-11-03",
+    "order": -38,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.39"
+  },
+  {
     "id": "celestial-1.0.38",
     "category": "atualizacoes",
     "title": "Celestial 1.0.38",
