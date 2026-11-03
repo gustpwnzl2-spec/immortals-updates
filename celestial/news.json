@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.25",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.25",
+    "description": "Player Inspect: versao de validacao com lista nativa e rolagem real, tooltips de itens, estado vazio e coleta de novos niveis. Preserva as demais interfaces.",
+    "date": "2026-11-02",
+    "order": -24,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.25"
+  },
+  {
     "id": "celestial-1.0.24",
     "category": "atualizacoes",
     "title": "Celestial 1.0.24",
