@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.40",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.40",
+    "description": "Immortals Coin: carteira compartilhada por conta, saldo na barra inferior e pagamentos no Immortals Store e World Trade. World Trade mantém Adena como alternativa. L-Coin permanece separada. A nova moeda não ocupa espaço no inventário.",
+    "date": "2026-11-03",
+    "order": -39,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.40"
+  },
+  {
     "id": "celestial-1.0.39",
     "category": "atualizacoes",
     "title": "Celestial 1.0.39",
