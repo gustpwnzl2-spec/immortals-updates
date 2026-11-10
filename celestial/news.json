@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.45",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.45",
+    "description": "Auto Hunting renovado: layout circular organizado, ícones com melhor contraste e botões compactos de configurações e minimizar. A engrenagem permanece disponível com o Auto Hunting minimizado e abre a configuração de range nos dois modos. Feche o jogo e atualize pelo launcher antes de entrar.",
+    "date": "2026-11-10",
+    "order": -44,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.45"
+  },
+  {
     "id": "celestial-1.0.44",
     "category": "atualizacoes",
     "title": "Celestial 1.0.44",
