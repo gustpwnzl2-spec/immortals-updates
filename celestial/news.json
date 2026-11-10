@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.44",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.44",
+    "description": "Atualização 09/11 a 10/11 (01:05–05:46): Streamer Store com seis consumíveis, nível mínimo 60 e ícone da Streamer Coin; Premium Tickets de 3 e 7 dias; Immortals Cake com EXP/SP +100%, Adena +10% e uso automático; marcadores coloridos de party; ajustes no enquadramento da seleção de servidor e correção de colisão em Royal Cemetery. Catálogos eu/es/pl atualizados. Feche o jogo e atualize pelo launcher antes de entrar.",
+    "date": "2026-11-10",
+    "order": -43,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.44"
+  },
+  {
     "id": "celestial-1.0.43",
     "category": "atualizacoes",
     "title": "Celestial 1.0.43",
