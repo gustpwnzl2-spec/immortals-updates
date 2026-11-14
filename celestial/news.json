@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.46",
+    "category": "atualizacoes",
+    "title": "Implementação Login e tela de criação atualizada 2.0",
+    "description": "Login com o visual do Bartz desde a abertura do cliente e tela de criação atualizada, com seleção, nome e opções de aparência. Mantidas as modificações do Celestial e a conexão com o servidor. Esta atualização é de interface; a classe Bartz jogável ainda não está disponível.",
+    "date": "2026-11-14",
+    "order": -45,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.46"
+  },
+  {
     "id": "celestial-1.0.45",
     "category": "atualizacoes",
     "title": "Celestial 1.0.45",
