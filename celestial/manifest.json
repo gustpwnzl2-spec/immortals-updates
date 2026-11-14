@@ -1,7 +1,49 @@
 {
-  "Version": "1.0.46",
-  "ManifestId": "celestial-1.0.46",
+  "Version": "1.0.47",
+  "ManifestId": "celestial-1.0.47",
   "Files": [
+    {
+      "Path": "SysTextures/ImmortalsPotionPriorityVisual.utx",
+      "Sha256": "5B3087A2CD2C18A6A10718582469D4FF19AF9CCAC1F1295B800C926A6AA7B2AB",
+      "Size": 13551,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.47/SysTextures__ImmortalsPotionPriorityVisual.utx"
+    },
+    {
+      "Path": "system/CelestialPartyRings.u",
+      "Sha256": "855AA07DB03C3395E991C7CC150828EFD9D56153A058A8DE5477C54AB4529306",
+      "Size": 2238807,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.47/system__CelestialPartyRings.u"
+    },
+    {
+      "Path": "system/Interface.xdat",
+      "Sha256": "6B07775C40D778D233881CDF0364B2C93C2F693C792EADC2C5832E7AA46F7D9D",
+      "Size": 7159216,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.47/system__Interface.xdat"
+    },
+    {
+      "Path": "system/InterfaceClassic.xdat",
+      "Sha256": "A5B24F71F938FF7CD702828F336E54CC6CCE081826922F9BAB2AF25688EDBB40",
+      "Size": 7769274,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.47/system__InterfaceClassic.xdat"
+    },
+    {
+      "Path": "system/es/Skillgrp_ClassicAden.dat",
+      "Sha256": "9280CCA9BF997EF5EE9C3D2A9D0BD6BF26FFEE12FF9861D0B79CFDFE8D7CE895",
+      "Size": 530352,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.47/system__es__Skillgrp_ClassicAden.dat"
+    },
+    {
+      "Path": "system/eu/Skillgrp_ClassicAden.dat",
+      "Sha256": "F4E9695B42C5E881D6BAEF883DBB6902CE585284D8A017FCBBABE08A978CCE44",
+      "Size": 530480,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.47/system__eu__Skillgrp_ClassicAden.dat"
+    },
+    {
+      "Path": "system/pl/Skillgrp_ClassicAden.dat",
+      "Sha256": "0A2919D85F91609A813B10C3D6FADCD990FAD003F837046EED789BF8453C5095",
+      "Size": 530352,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.47/system__pl__Skillgrp_ClassicAden.dat"
+    },
     {
       "Path": "system/Interface.u",
       "Sha256": "0F631713CBFD777DAF6CF803025B29CE9918A92D343F25560699B3107725CFDC",
@@ -13,18 +55,6 @@
       "Sha256": "A1AA0DE6A0E89B92A694340E9D94002E62DE82A410ADB2451ADC14AF51CD0440",
       "Size": 9420603,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.46/system__InterfaceClassic.u"
-    },
-    {
-      "Path": "system/Interface.xdat",
-      "Sha256": "E1E67E9E663D55D13B96E5373B6A3B3C34AA1BC7F7A1AEEDB812D75468DBCE65",
-      "Size": 7159292,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.46/system__Interface.xdat"
-    },
-    {
-      "Path": "system/InterfaceClassic.xdat",
-      "Sha256": "E4C0B788B018F80C5EF43672D49192C144A7416DD9DEB6C9B40128603B1EA76E",
-      "Size": 7769350,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.46/system__InterfaceClassic.xdat"
     },
     {
       "Path": "system/FlashConfig.dat",
@@ -99,12 +129,6 @@
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.44/system__CelestialPartyMarkers.u"
     },
     {
-      "Path": "system/CelestialPartyRings.u",
-      "Sha256": "7D1BD0288EB7491430414508B20B210CBCA08715D5CCAD6B029BBC6862F7C49F",
-      "Size": 2238807,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.44/system__CelestialPartyRings.u"
-    },
-    {
       "Path": "system/es/AbnormalDefaultEffect.dat",
       "Sha256": "C1E52077F7A5D6784D5FC6D2A4FAF2D02FF89A5B7A75DCC697A462F8226BAC2D",
       "Size": 17200,
@@ -175,12 +199,6 @@
       "Sha256": "E44C4D878F0157CFBC01C65BC91229D277DEA3EFFB9BFDC5742C3572A809C1C2",
       "Size": 288560,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.44/system__es__NpcString-es.dat"
-    },
-    {
-      "Path": "system/es/Skillgrp_ClassicAden.dat",
-      "Sha256": "7264236E02CE0ECE5054A0BAC846D656A5FAA784A299F85FBE69D2F22F298C54",
-      "Size": 530352,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.44/system__es__Skillgrp_ClassicAden.dat"
     },
     {
       "Path": "system/es/SkillName_ClassicAden-es.dat",
@@ -261,12 +279,6 @@
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.44/system__eu__NpcString-eu.dat"
     },
     {
-      "Path": "system/eu/Skillgrp_ClassicAden.dat",
-      "Sha256": "0BF837CB036E5CD5609319DC71735A556A4D6A4D1D63C7479AA3D0EC2899CCD8",
-      "Size": 530480,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.44/system__eu__Skillgrp_ClassicAden.dat"
-    },
-    {
       "Path": "system/eu/SkillName_ClassicAden-eu.dat",
       "Sha256": "F606AAFA4A0E2A7885D2CD0B2149B61A72B40AE74FC58465B509A169EE75444D",
       "Size": 968880,
@@ -343,12 +355,6 @@
       "Sha256": "E44C4D878F0157CFBC01C65BC91229D277DEA3EFFB9BFDC5742C3572A809C1C2",
       "Size": 288560,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.44/system__pl__NpcString-pl.dat"
-    },
-    {
-      "Path": "system/pl/Skillgrp_ClassicAden.dat",
-      "Sha256": "0D1DAEFDC7DCD37DAD0231D858E7E87D64D4E574B101580A85043337A90D6964",
-      "Size": 530352,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.44/system__pl__Skillgrp_ClassicAden.dat"
     },
     {
       "Path": "system/pl/SkillName_ClassicAden-pl.dat",
@@ -610,5 +616,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "Vw\u002BEMhMbMhRcSFsBxILZiASyOYvE0fz8MJeDYUr\u002BGwdrRobEG0x3yUllBsR2kMe0QodB4t1e2dNRib2avFHUeFXLd/zUYbvXqGvbtVX\u002BMTOWEYRhJNMHmPkIYyt3QSw854ubwdjxz9omnpa3QASq7\u002BRnEIBMHnDrilosz2mhjVyvP/SMLlz6OQurBSmPqpixh/VVxhTud1vI5JnLVMLeZsRlmMvsoADYVKi/SpZaO/bUOQAr20wrhVfCnJ6akWkclos\u002ByiujLuuMYQcvKpgwrpjJqSB5llCQlhPxt8hTKLzBT81BbIY2G7ycP2lLjShperhRGTU7uAUVrQZrQJpF4Ln95bqCGyr/iY0gniHxRg9h90isDzeLyHj8Q3UQ81WePyaqZOMMJFzK9JovUMj/aJGLMzHX9tlPKKNW7T8N0cdByGHjswd7OCvBU5V5\u002BCL3T7x5Ef5fjyC52txkQmOdve2O\u002BrEEuhKnMjWw22lSc7iza9vdZ3HIEsuqjIEuK5/v"
+  "Signature": "ov3XqFxyGWZ5p6koMR8OKAoEWJBHipU11DoVEfEvOZFXadRx4L1ic9Yj5Z2GJnPBbXSDXS0A1rBAdgTR1NwoAFA57NAvAMs6CHIyIg9VwcTUwPm8P/cuEq4NPrL5b3kKFWjzto2wCvfNzWnRDf\u002B1SqR8STMHV1D\u002BZFoJItcvAqXuAesb0uIMvp7FKh1VF9MXvVpuTNXSVc0fMw3DZl0GlWlqJsf8QEYTBkyjV3cAtMUM2zL3nqxZKIZYisL6LjRRO5w4dGnAjwVY0iTVW7GqP0PpXIQBRLbLhY9eTC0ZmlxxtlIqM3wn90ZF9fJeFiYjVMknB6hz2GubiwmQYMWu7J7ZV2ikNZGMLp6EjPpR7uvAY8q0oOkD2zHuKJntqVPXAfZmdcktEsZHRg12KgEZxM\u002B7vq3bpXSScpMkVNNYHzY7CEFyt3lAELoHQKodGAe3WM7/G28ph8Ld54itu8Y7dt8n8NnUtNW/vhIfuaz7sYtZJ9/pnmD1/Fi3J9U1bp6J"
 }
