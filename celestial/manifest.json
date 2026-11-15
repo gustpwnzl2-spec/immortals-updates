@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.48",
-  "ManifestId": "celestial-1.0.48",
+  "Version": "1.0.49",
+  "ManifestId": "celestial-1.0.49",
   "Files": [
     {
       "Path": "system/Interface.xdat",
@@ -613,8 +613,14 @@
       "Sha256": "BC2E6DBEF15129C8A2625C6D26F4B553777071D11276916B0D94361B99310085",
       "Size": 4784,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.0/system__L2.ini"
+    },
+    {
+      "Path": "SysTextures/CelestialHuntNativeAssets.utx",
+      "Sha256": "2324F2C22C8FF88AF9191BCE4A06BD2ABEA6F4D228D62107689619693C26E14A",
+      "Size": 666440,
+      "DownloadUrl": "https://raw.githubusercontent.com/gustpwnzl2-spec/immortals-updates/80fd168abe190458752e4655651443566be84d8f/celestial/assets/1.0.49/SysTextures/CelestialHuntNativeAssets.utx"
     }
   ],
   "RemovedFiles": [],
-  "Signature": "up4G/AdQoTwzJVTv7nzCj8w9mBKZyOprAZ9jh45cLcBsWJ1XiLXI7NGmONkjasNQvUXaqpjxzrO7UPIKi/0sPwJLPXYFvmb0dbxx00KVD/7GxcALFwhZYW5j\u002B3t6dqsAPOGpBs8r5icMN9I9XVa3UlbFx3WcyPtKL84X/j7004eqspsR6dyY9Xf3bl22TNfRm9a\u002Bz9N1wQCuNgbEmyyl\u002B1aJfgUHslb2Gy70cjoZc7k1cEMofs4dm/6dx8klxouwTlH4YDMCf80lwHp94UlRcgM9kYgAZ8oeXGWPetmgq6dK/nKzc69v\u002BXyHhwlm1it5ZwczVjsR8H6q4jCzw\u002BdX7uJG2M1YFyAnt4z9hjsk57Zwe\u002BLaQJT6KQ03HBqPJZuBm837HfDg2WT7sFRECIp15qAznabDVZ6LvYfXuEG8HLZdLWJf\u002BZy3IgTnnshaKhSQWIqPrTi69woRlyz3NekPhZbtS6\u002Bi/OAMwRVShCLX9JYVosIS61ZNNoV8T7kjgfNE"
+  "Signature": "dobNcD0WushvA/p2VF9S7JbYZi2sibEXs/PaBYMooS5PKb13IhDiilWvXNi5igHyCVL63hwtv24MqyvfZjALzEQoMhbjsJ9oJJbdHJsB3SFvarNJXCJ3\u002BH43yCVW50CgdefHcR8NqMdq3M/tkcDsIoOfJ1km7R4Cke4ZJ03tKO\u002BETmGi2v34DgtT/ecQxwXCFL1uSEagpAfT0MY8mkmvFu5UijxFqZNnjzsVXwTrmvLZVaAZVdhw4CqbCYZ\u002BpsFSVxjFU54CAdceaJ9w4j3GRs7CbLFXbP9eOHWPkyiVBVeNWDJKdZytdKNpf7pqJsK9A/phmj8n4oHBoBpKcxAspwLLuY9PrLpDuS3DG26\u002BDHACsAWALyqPUYE64GDjocCwzZDP10PeP1EMelVXZURpQh/tc5lH9Wp8QU8aC8fQmJkni5B1z/U3ISKvNVidLBh1iHV9cV5lxGJHP\u002BrpVILf4T9s8fwzpSz2oA0pR51u8VgD9xOzCZL1JO\u002BjmyXmfpI3"
 }

@@ -1,9 +1,18 @@
 [
   {
+    "id": "celestial-1.0.49",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.49",
+    "description": "Corrigidos os quadrados pretos nos botões do Auto Hunting: o launcher agora distribui o pacote de texturas nativas que faltava. Feche o jogo, atualize pelo launcher e entre novamente.",
+    "date": "2026-11-14",
+    "order": -48,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/commit/80fd168abe190458752e4655651443566be84d8f"
+  },
+  {
     "id": "celestial-1.0.48",
     "category": "atualizacoes",
     "title": "Celestial 1.0.48",
-    "description": "Interface de uso autom�tico com cores mais vivas e cursor est�vel; tooltips e efeitos nativos nos bot�es do Auto Hunting; Raid Boss ON com o �cone anterior em vermelho suave; segundos no Total play time; corre��o da reorganiza��o das barras de atalhos ao aprender skills. Feche o jogo e atualize pelo launcher antes de entrar.",
+    "description": "Interface de uso automático com cores mais vivas e cursor estável; tooltips e efeitos nativos nos botões do Auto Hunting; Raid Boss ON com o ícone anterior em vermelho suave; segundos no Total play time; correção da reorganização das barras de atalhos ao aprender skills. Feche o jogo e atualize pelo launcher antes de entrar.",
     "date": "2026-11-14",
     "order": -47,
     "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.48"
