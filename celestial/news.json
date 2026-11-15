@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.51",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.51",
+    "description": "Restaurados os quatro ícones originais do Auto Hunting, mantendo o visual aprovado e adicionando apenas os tooltips ON/OFF. Feche o jogo e atualize pelo launcher.",
+    "date": "2026-11-14",
+    "order": -50,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/commit/3004e1063b90635e88790ea03b6d08b575226c8d"
+  },
+  {
     "id": "celestial-1.0.50",
     "category": "atualizacoes",
     "title": "Celestial 1.0.50",
