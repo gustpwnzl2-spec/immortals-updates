@@ -1,9 +1,18 @@
 [
   {
+    "id": "celestial-1.0.48",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.48",
+    "description": "Interface de uso autom�tico com cores mais vivas e cursor est�vel; tooltips e efeitos nativos nos bot�es do Auto Hunting; Raid Boss ON com o �cone anterior em vermelho suave; segundos no Total play time; corre��o da reorganiza��o das barras de atalhos ao aprender skills. Feche o jogo e atualize pelo launcher antes de entrar.",
+    "date": "2026-11-14",
+    "order": -47,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.48"
+  },
+  {
     "id": "celestial-1.0.47",
     "category": "atualizacoes",
     "title": "Celestial 1.0.47",
-    "description": "Visual atualizado dos fundos de poÃ§Ãµes e prioridades, mantendo os slots; novas logos IM nos Party Markers e catÃ¡logos de skills atualizados. CorreÃ§Ãµes no servidor: quests compartilhadas com suportes prÃ³ximos da party, Requiem, Provoke e heals automÃ¡ticos, Magic Lamp atÃ© 10 nÃ­veis abaixo, cancelamento de ornamento e Dandy Home Ball sem sobrepor transformaÃ§Ãµes, com bloqueio junto ao Einhasad Scroll Blessing. Feche o jogo e atualize pelo launcher antes de entrar.",
+    "description": "Visual atualizado dos fundos de poções e prioridades, mantendo os slots; novas logos IM nos Party Markers e catálogos de skills atualizados. Correções no servidor: quests compartilhadas com suportes próximos da party, Requiem, Provoke e heals automáticos, Magic Lamp até 10 níveis abaixo, cancelamento de ornamento e Dandy Home Ball sem sobrepor transformações, com bloqueio junto ao Einhasad Scroll Blessing. Feche o jogo e atualize pelo launcher antes de entrar.",
     "date": "2026-11-14",
     "order": -46,
     "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.47"
@@ -11,8 +20,8 @@
   {
     "id": "celestial-1.0.46",
     "category": "atualizacoes",
-    "title": "ImplementaÃ§Ã£o Login e tela de criaÃ§Ã£o atualizada 2.0",
-    "description": "Login com o visual do Bartz desde a abertura do cliente e tela de criaÃ§Ã£o atualizada, com seleÃ§Ã£o, nome e opÃ§Ãµes de aparÃªncia. Mantidas as modificaÃ§Ãµes do Celestial e a conexÃ£o com o servidor. Esta atualizaÃ§Ã£o Ã© de interface; a classe Bartz jogÃ¡vel ainda nÃ£o estÃ¡ disponÃ­vel.",
+    "title": "Implementação Login e tela de criação atualizada 2.0",
+    "description": "Login com o visual do Bartz desde a abertura do cliente e tela de criação atualizada, com seleção, nome e opções de aparência. Mantidas as modificações do Celestial e a conexão com o servidor. Esta atualização é de interface; a classe Bartz jogável ainda não está disponível.",
     "date": "2026-11-14",
     "order": -45,
     "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.46"
@@ -21,7 +30,7 @@
     "id": "celestial-1.0.45",
     "category": "atualizacoes",
     "title": "Celestial 1.0.45",
-    "description": "Auto Hunting renovado: layout circular organizado, Ã­cones com melhor contraste e botÃµes compactos de configuraÃ§Ãµes e minimizar. A engrenagem permanece disponÃ­vel com o Auto Hunting minimizado e abre a configuraÃ§Ã£o de range nos dois modos. Feche o jogo e atualize pelo launcher antes de entrar.",
+    "description": "Auto Hunting renovado: layout circular organizado, ícones com melhor contraste e botões compactos de configurações e minimizar. A engrenagem permanece disponível com o Auto Hunting minimizado e abre a configuração de range nos dois modos. Feche o jogo e atualize pelo launcher antes de entrar.",
     "date": "2026-11-10",
     "order": -44,
     "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.45"
@@ -30,7 +39,7 @@
     "id": "celestial-1.0.44",
     "category": "atualizacoes",
     "title": "Celestial 1.0.44",
-    "description": "AtualizaÃ§Ã£o 09/11 a 10/11 (01:05â€“05:46): Streamer Store com seis consumÃ­veis, nÃ­vel mÃ­nimo 60 e Ã­cone da Streamer Coin; Premium Tickets de 3 e 7 dias; Immortals Cake com EXP/SP +100%, Adena +10% e uso automÃ¡tico; marcadores coloridos de party; ajustes no enquadramento da seleÃ§Ã£o de servidor e correÃ§Ã£o de colisÃ£o em Royal Cemetery. CatÃ¡logos eu/es/pl atualizados. Feche o jogo e atualize pelo launcher antes de entrar.",
+    "description": "Atualização 09/11 a 10/11 (01:05–05:46): Streamer Store com seis consumíveis, nível mínimo 60 e ícone da Streamer Coin; Premium Tickets de 3 e 7 dias; Immortals Cake com EXP/SP +100%, Adena +10% e uso automático; marcadores coloridos de party; ajustes no enquadramento da seleção de servidor e correção de colisão em Royal Cemetery. Catálogos eu/es/pl atualizados. Feche o jogo e atualize pelo launcher antes de entrar.",
     "date": "2026-11-10",
     "order": -43,
     "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.44"
@@ -66,7 +75,7 @@
     "id": "celestial-1.0.40",
     "category": "atualizacoes",
     "title": "Celestial 1.0.40",
-    "description": "Immortals Coin: carteira compartilhada por conta, saldo na barra inferior e pagamentos no Immortals Store e World Trade. World Trade mantÃ©m Adena como alternativa. L-Coin permanece separada. A nova moeda nÃ£o ocupa espaÃ§o no inventÃ¡rio.",
+    "description": "Immortals Coin: carteira compartilhada por conta, saldo na barra inferior e pagamentos no Immortals Store e World Trade. World Trade mantém Adena como alternativa. L-Coin permanece separada. A nova moeda não ocupa espaço no inventário.",
     "date": "2026-11-03",
     "order": -39,
     "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.40"
@@ -408,17 +417,17 @@
     "id": "celestial-1.0.2",
     "category": "atualizacoes",
     "title": "Celestial 1.0.2",
-    "description": "Immortals Server; Starter Kit full C para novos personagens; Premium Ticket de 30 dias e Premium Account Effect atualizado; novas skins de armas, armaduras, capas e escudos no Ornaments, com ativaÃ§Ã£o corrigida; DPS Meeter com listeners corrigidos e Raid Teleport substituem 4game/Aden Laboratory, com Ã­cones originais ajustados; Saved Accounts; ajustes de Kill Effect e Skill Priority; login e loading responsivos, preservando as imagens. Raid Teleport: destinos adicionais aguardam configuraÃ§Ã£o.",
+    "description": "Immortals Server; Starter Kit full C para novos personagens; Premium Ticket de 30 dias e Premium Account Effect atualizado; novas skins de armas, armaduras, capas e escudos no Ornaments, com ativação corrigida; DPS Meeter com listeners corrigidos e Raid Teleport substituem 4game/Aden Laboratory, com ícones originais ajustados; Saved Accounts; ajustes de Kill Effect e Skill Priority; login e loading responsivos, preservando as imagens. Raid Teleport: destinos adicionais aguardam configuração.",
     "date": "2026-10-29",
     "order": -1,
     "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.2"
   },
   {
     "category": "atualizacoes",
-    "title": "Celestial 1.0.1 â€” Bosses no mapa",
+    "title": "Celestial 1.0.1 — Bosses no mapa",
     "order": 0,
     "id": "celestial-1.0.1",
-    "description": "Adicionados 72 marcadores ao mapa, completando 42 bosses Elite e 50 High Elite. Atualize pelo launcher e reabra o jogo para carregar os novos Ã­cones.",
+    "description": "Adicionados 72 marcadores ao mapa, completando 42 bosses Elite e 50 High Elite. Atualize pelo launcher e reabra o jogo para carregar os novos ícones.",
     "date": "2026-10-27",
     "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.1"
   },
