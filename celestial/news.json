@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.50",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.50",
+    "description": "Ajustada a transparência dos quatro ícones personalizados do Auto Hunting, reduzindo os fundos escuros e preservando os desenhos, estados ON/OFF, efeito de mouse e vermelho suave do Raid Boss. Feche o jogo e atualize pelo launcher.",
+    "date": "2026-11-14",
+    "order": -49,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/commit/e21ae19b5342af18a289033d192daa70d1577eb5"
+  },
+  {
     "id": "celestial-1.0.49",
     "category": "atualizacoes",
     "title": "Celestial 1.0.49",
