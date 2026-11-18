@@ -1,18 +1,18 @@
 {
-  "Version": "1.0.65",
-  "ManifestId": "celestial-1.0.65",
+  "Version": "1.0.66",
+  "ManifestId": "celestial-1.0.66",
   "Files": [
     {
       "Path": "system/InterfaceClassic.u",
-      "Sha256": "8A97831260EC0C273F8B68CE035B5918E3F7708003AE3F0597B211E541D47C40",
-      "Size": 8550016,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.65/system__InterfaceClassic.u"
+      "Sha256": "7A1FE79BEA907CBEDD1FFA25DF76615FE7A6D71ACD43A6864488C35F6D2C98D1",
+      "Size": 8550037,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.66/system__InterfaceClassic.u"
     },
     {
       "Path": "system/InterfaceClassic.xdat",
       "Sha256": "7A78F4272B638E72F90F5A84ACB7CEA1902DCC8C08EC95456D2AC1FCA5EF2E55",
       "Size": 7796664,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.65/system__InterfaceClassic.xdat"
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.66/system__InterfaceClassic.xdat"
     },
     {
       "Path": "system/eu/NewQuestData_ClassicAden-eu.dat",
@@ -1390,5 +1390,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "U4RcIRNzFzdMxWP1U6Mdp3tohRro5DqFoaCWnbTk/gcXEdf8MEdtTC0cjoXTpqS4/HGBjHmbkZvbxv9H/zT0Et0Wef6hMiDUJwlJh7Q90Vp8mosKBg83QW32u6hyOhgLuaMiU2BNA1r\u002Bsk3vGEjKHU7wjaNUNi2QtW227draxztOgphHSV9gvaM26C2O0Ny\u002BC0JDXNruulgC2Tnjm4patn1VihnEyR\u002BSQcnPKWHEM620DBs9o7Q5CGFQeJ3j0iOYwFXnGkpF\u002BxGmUX0rhbaaVCfPEfeA3FtAjRygCuPw/oTfKR\u002BpMrRzvVGIU\u002BgMPUK6Zm1rYsmSNSM7h5Pg3Uj/4Zq9O4hLZaI2u4IBciq1I5Ilsj4MGeyPK7BBFvChJu3Wqn8qsG7jFlm9dfmNAweelpzctLK9YXpl7\u002B0co0/p0hWUXdNu8Lm5G7CLlFJNW37YrChLDmyV0X\u002Bdew3De9\u002Bkk1JjtXwvutMPtj7Qzlx5lhhku7GqLJq2DFvZejoMp5YV"
+  "Signature": "QR0pyu5Ux8ja7PmKDeGutULpyzoc9XscEqSPKg\u002BWIT68ku9ny40uK0XFEo5K5IR\u002BCELdaxs1TmSaCH4KGDGbCVunGhEun7gVTbYQ3bIWufc6JtOsJrcE8czDLi64IUSO/\u002BiNqzGVJOBSudm82UYYIrGg8a/HynMNc9ed8udaZGkEp0SN\u002BCdu16ylvjXpXUEWdlN1vTS/btTRANQUhr1QkVtW77VVspTGn6jbeSGXl1QRZ9y5xOcLaHDNFW90S1DR9EdInCyfFZNYUc7xOTgXSu3mulnEqoHNCQDzG596vS9hF2D5sYQmO3MISW3d5ThZoKmG7Y//2EkabguynoExIs/xsqY0oBM0et0AY0Y5Y/wNZzghmjYgDweVqTt0xCvZFqWR32QIiMDUEXCQI5qPFKLUylZUrghrWYGD3E/pbs/F/2bmX609573VsZf2QXpxF4a41\u002BRBTaIoVshWkqxRM15tCy\u002BchnJrxqIrNCeuhe2roSt9VLkxKphts7fx9ogB"
 }

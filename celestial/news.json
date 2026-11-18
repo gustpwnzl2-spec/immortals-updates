@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.66",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.66",
+    "description": "Criacao de personagem: corrigido o quadrado preto que aparecia na etapa de aparencia.",
+    "date": "2026-11-18",
+    "order": -64,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.66"
+  },
+  {
     "id": "celestial-1.0.65",
     "category": "atualizacoes",
     "title": "Celestial 1.0.65",
