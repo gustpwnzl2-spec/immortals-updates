@@ -1,30 +1,24 @@
 {
-  "Version": "1.0.61",
-  "ManifestId": "celestial-1.0.61",
+  "Version": "1.0.62",
+  "ManifestId": "celestial-1.0.62",
   "Files": [
     {
-      "Path": "system/eu/SkillAcquire_ClassicAden.dat",
-      "Sha256": "198AE18DD02DC560F7A865A71FD238C29460145181766B5F157061805DB3A4DB",
-      "Size": 110000,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.61/system__eu__SkillAcquire_ClassicAden.dat"
-    },
-    {
-      "Path": "system/eu/NewQuestData_ClassicAden-eu.dat",
-      "Sha256": "B55A8C5A658432CC4896A9AFAE851854B53669A8D7562D8634A2D6450BDE8C0D",
-      "Size": 10800,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.61/system__eu__NewQuestData_ClassicAden-eu.dat"
-    },
-    {
       "Path": "system/InterfaceClassic.u",
-      "Sha256": "E1A11016DF082B5A0B737DE8B05662DDD00AC70AAF9D55248ADD8E58C3CFFB5C",
-      "Size": 25323436,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.60/system__InterfaceClassic.u"
+      "Sha256": "8FC409641A592423E249232B3E22AED7F9E6CB18FA7D9D400E6D50E3611502D0",
+      "Size": 8533717,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.62/system__InterfaceClassic.u"
     },
     {
       "Path": "system/InterfaceClassic.xdat",
       "Sha256": "7A78F4272B638E72F90F5A84ACB7CEA1902DCC8C08EC95456D2AC1FCA5EF2E55",
       "Size": 7796664,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.60/system__InterfaceClassic.xdat"
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.62/system__InterfaceClassic.xdat"
+    },
+    {
+      "Path": "system/eu/NewQuestData_ClassicAden-eu.dat",
+      "Sha256": "B55A8C5A658432CC4896A9AFAE851854B53669A8D7562D8634A2D6450BDE8C0D",
+      "Size": 10800,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.54/system__eu__NewQuestData_ClassicAden-eu.dat"
     },
     {
       "Path": "SysTextures/sp_32b_01.bmp",
@@ -1396,5 +1390,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "zmk1vSB1gz7WI6J6nd9k8NNcPQ058euILXJjkE4XAW2\u002BPjgXo9qJ\u002BHmGjZJWNJqx\u002BIzAzr7eRGFF2FY6eTF36mpclglK2nYs8/nJ7\u002B1wuInWsOX1WRtBYBTPrfGuxnIp/r8yDEXYyteCRJLzzYz32mtZNUAi9dnTh/6JC1hQW1eD\u002BFv/mM8K7SQdq5wfrLPfz8xVqOhwXZdosm86yFvPqZcQob3BV3UCg\u002BRhC/9C1eVJejoy2ioj2jAhzkocgpllljC6xzKddFHNxMcQAHIjU3NJ6WS7fzP\u002B\u002BGELob5NoPXM/134pz3wWUf31I5jd83skailW3P3aWfQyQFZGRKiS3mra1pRW16YJMX9A9l8hGQzoHs\u002Bn/bfnZL5rTaBcuB9yfM5muwR\u002BiRDAaY4bJ9zJ9skIKdjEBSPrnnamLe5\u002BYGNCBSkrMfubPeirVQJVkspiTqi3pEx3hj4apzrUB17Q\u002BRXUcFgGjxwaG0w4JSXytW7wDUBDArzDn0Bp41ZMEn0"
+  "Signature": "B8ENeR/IdQ5a/S2tRhhBCfJGNe6wvQLDu7DpXfa5Ad1GUQXc4Eo\u002BWmOS0Cs85Iya8\u002BQKJ2l\u002BGXTH4L5V6KPMfYMLb9V46hG62xfRG0aP7rdRPyfgT/kXZQiHsd\u002BEh4sw92yLohChw10bH9DWuAy8dXoEzJ7UWqdEpwpzH/JVQUnHZWij2JEhaO2pO7eJ/B4yA\u002BwW/WV1A/wlgsoP29q8VnZyvVVWAOI\u002Bw3AveWNRdKHsv7BuI\u002BffKLBYghxFIxrLCHPdrUxUij\u002BW7aYMyblG9xl7EjG6FTjjyrBqK3xZIlMtRBXpB2KG12qs/iQjqelqYuC6lpIoFQOJdMRfnLL8/T9Ltolz6fBNR780R/G/CmmEElidlvmpBz9y0KmC9kieyYNiiUA9gZnMtfMrwWS3up24mjMnuuEdW1s43vZPJOtSIdJSMwDu0V3S8BRUgzyI4IBKDX0GqZKVOIGt2MraKUmMNxS3t75j9\u002B0kPVgQMCSw4PJ3CWw2mulc8L3FsCam"
 }
