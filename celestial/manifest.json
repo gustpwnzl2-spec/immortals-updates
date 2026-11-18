@@ -1,7 +1,37 @@
 {
-  "Version": "1.0.52",
-  "ManifestId": "celestial-1.0.52",
+  "Version": "1.0.53",
+  "ManifestId": "celestial-1.0.53",
   "Files": [
+    {
+      "Path": "SysTextures/sp_32b_01.bmp",
+      "Sha256": "57FC30CAAE89D02D587411A710F47DCEC933D623EE903E3CCFDF71E1C4993A17",
+      "Size": 1228884,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.53/SysTextures__sp_32b_01.bmp"
+    },
+    {
+      "Path": "SysTextures/sp_32b_02.bmp",
+      "Sha256": "CE324A62A849AABB156F1A3B49168C8518698BF1BB147FC50BF06F4A71D05A1E",
+      "Size": 1228884,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.53/SysTextures__sp_32b_02.bmp"
+    },
+    {
+      "Path": "SysTextures/sp_32b_03.bmp",
+      "Sha256": "F634BB05CB3332EA67E0A8D222260DD2F5E744481456B43D830DE73E65CFA7BD",
+      "Size": 1228884,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.53/SysTextures__sp_32b_03.bmp"
+    },
+    {
+      "Path": "SysTextures/sp_32b_04.bmp",
+      "Sha256": "C4F31AB368A92F15BB82CF12AAB16962E36952B7C615D4FD27D0E4634A97A5D6",
+      "Size": 1228884,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.53/SysTextures__sp_32b_04.bmp"
+    },
+    {
+      "Path": "SysTextures/sp_32b_05.bmp",
+      "Sha256": "B99F56033588E7CA33F6F57FA667F4FB097974CB967398514C21720F12BC50E4",
+      "Size": 1228884,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.53/SysTextures__sp_32b_05.bmp"
+    },
     {
       "Path": "Animations/HighElf.ukx",
       "Sha256": "2FA40DAB2FF086728E9A7904C9AB673C16D025F92CDF59C6220427B5C08121B4",
@@ -1354,5 +1384,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "hFcHdv45NQsvxlFgPetzZ3H50YmlDfL0016NXaeifhXSzwqAVa1msJzR+Q0o1Qw0lyTySfJsG+Oj/Py8SJArkrQBSpbg2kN6n44b/omluonj7F+SQ2yl7w+RVz2LOECBy38JfPRxZZ0kv36l9iNhAB3GXVnm7C/REJoRIdLfnrcKBgAzR1c3tkttlSf5D1A4RseuJys2TIOTx3KtLvWUi/GxAt0fQxBcJCgxNYdpsd79KhvrvWDWmvwJtsnNUZMpyb7p7m1fzXAqxjIvzozD6ez7jwj31rmznU3PE+Bx4p3+9S6hwYwF+kzhSwmfQzYYQMdHIKrPZnjC7S0i+aSAe/31mQ0JFuI9IygVl8Mxf/HNxCvYxsBs9KZ6HkEyT8GvnyHNmmiQQ12V6mhtl+ZVgELMiz01m7eIFfTte9hu5qINsXQHordUoA4R8DDhua+ohYiZMnPtEuaYD8LA331IGU4Ck4z4LLrjvVw8+e8ysIiQmxHaJSuFYo7eg23I3+GA"
+  "Signature": "Rwyl3Vi3Lq56\u002BFsH3jdWat/7Di4w1U5Y/M/N9S68/T8KH14/DK/XTyZqZVYBDqLs2NHwMr9yyQpiUT6EmFl6tugMKnaRuitn5ixS3FDNd2XFvRZu3P2mOwE9EQovgjSaFo0cvyqezc6lKrBNJkj5s1J6gbT8jtxzioWDu/lrJ3ShYceLcItIzOtb7\u002BNicorsqtmUq97Cf2lYgAN7EdjvUIYWohIi63eC4WBGEp2ewQIDfXHqyHLg/\u002BeYcnOmJJMRA2rlJRFe54iPSSgvxT0WaBufvn5y8K4I2q9knTphGGQ\u002BlE2zh2fLWxuD/1T99r29ua4zgpKFRZ8SKyMbKE4XAQpgU1i2huh7mLgOfikWNz1klfkpQ/\u002Bnjeqy/763RdMGw3tqAObBZ7rwClNE809zOv6sX/9n6/IiM\u002BkAWDDBQ3iuaFlQePVTM0zQvu8avsBIHWh9lfbgfDJQ4T6ZSJf19Y7n/1RBEvWwQhdGcDupMOI4jm4JywrKTPBo7pnRdg\u002B8"
 }
