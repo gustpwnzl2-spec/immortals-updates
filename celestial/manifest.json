@@ -1,18 +1,18 @@
 {
-  "Version": "1.0.64",
-  "ManifestId": "celestial-1.0.64",
+  "Version": "1.0.65",
+  "ManifestId": "celestial-1.0.65",
   "Files": [
     {
       "Path": "system/InterfaceClassic.u",
-      "Sha256": "6DD953BAA7A39E913D1074533021217D11A466193CF1488B71E8ED087BAA6174",
-      "Size": 8549861,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.64/system__InterfaceClassic.u"
+      "Sha256": "8A97831260EC0C273F8B68CE035B5918E3F7708003AE3F0597B211E541D47C40",
+      "Size": 8550016,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.65/system__InterfaceClassic.u"
     },
     {
       "Path": "system/InterfaceClassic.xdat",
       "Sha256": "7A78F4272B638E72F90F5A84ACB7CEA1902DCC8C08EC95456D2AC1FCA5EF2E55",
       "Size": 7796664,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.64/system__InterfaceClassic.xdat"
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.65/system__InterfaceClassic.xdat"
     },
     {
       "Path": "system/eu/NewQuestData_ClassicAden-eu.dat",
@@ -1390,5 +1390,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "YxQlT1NUHLgjgmrweMA36IfIkVjxLBVgCxyVvkQTmZUe4MfZUhtyBBq1DU2PQhT1FQCyK9NlHXi8MRvmjSr6ndoQmEHDwQWinAfLk2D8QKT5h1GsKq/h14bapK0a18LHkWQtktMNJd6iBL8lITyiT9J7zdlrPbHH7jTMmHwshKUfBzS3FS1LOsERgr34\u002BAGJW0HtO1PCumQ1QziNY3UpgT4ndPdgzhNIiA5Pu2tHaRrKA10mM0LjY4Wn9WItDSCdnq02LCqCpfatKvHqiIMNWEuPwrlyfSxyb/PHVtEE8YmH77kaCQHMVUrYd/m51PaSZPN6PxhEZW62p4BnTrgrqWSTc9AQTFVS/7IanwyOvW\u002BXy7LSCpiUtmCqgxEFaw25KUJgGrasDJ/cDMo1juVI0zCE6zDZfVutBlEfJ1yPN\u002BX4/qm87wu/9nQfhDJVwvhtdTDtzvaqtxZgKjNGSSb1v9W7zh6qkgHjPYudDqba7KO3j/H7AUoXiRLvjoNVWvDR"
+  "Signature": "U4RcIRNzFzdMxWP1U6Mdp3tohRro5DqFoaCWnbTk/gcXEdf8MEdtTC0cjoXTpqS4/HGBjHmbkZvbxv9H/zT0Et0Wef6hMiDUJwlJh7Q90Vp8mosKBg83QW32u6hyOhgLuaMiU2BNA1r\u002Bsk3vGEjKHU7wjaNUNi2QtW227draxztOgphHSV9gvaM26C2O0Ny\u002BC0JDXNruulgC2Tnjm4patn1VihnEyR\u002BSQcnPKWHEM620DBs9o7Q5CGFQeJ3j0iOYwFXnGkpF\u002BxGmUX0rhbaaVCfPEfeA3FtAjRygCuPw/oTfKR\u002BpMrRzvVGIU\u002BgMPUK6Zm1rYsmSNSM7h5Pg3Uj/4Zq9O4hLZaI2u4IBciq1I5Ilsj4MGeyPK7BBFvChJu3Wqn8qsG7jFlm9dfmNAweelpzctLK9YXpl7\u002B0co0/p0hWUXdNu8Lm5G7CLlFJNW37YrChLDmyV0X\u002Bdew3De9\u002Bkk1JjtXwvutMPtj7Qzlx5lhhku7GqLJq2DFvZejoMp5YV"
 }
