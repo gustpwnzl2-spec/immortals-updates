@@ -1,12 +1,12 @@
 {
-  "Version": "1.0.56",
-  "ManifestId": "celestial-1.0.56",
+  "Version": "1.0.57",
+  "ManifestId": "celestial-1.0.57",
   "Files": [
     {
       "Path": "system/InterfaceClassic.u",
-      "Sha256": "E08F8F80A0A12F7DC6E0D21E276DDBA317940DBAB04028B3BAFE78D727FAAE86",
-      "Size": 17705186,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.56/system__InterfaceClassic.u"
+      "Sha256": "759F2FA40C9CF798F357DB5C4B59CB2E517483F583FCA074A14E20F69E42277F",
+      "Size": 17705203,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.57/system__InterfaceClassic.u"
     },
     {
       "Path": "system/eu/NewQuestData_ClassicAden-eu.dat",
@@ -1390,5 +1390,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "xruZVPIXDWPd7XzSl1Kls2JEMQQKxZJdVembV9it6g2W18wOWbzeGt6RuURZv0QnzXhvaMYdkuEP4/cjokA18R1/9lkGZo0XsTGltrEeeeI03P6Mpb7bWn8OxeSUKn5PoOTuIpZyqGGOzXbsfj1uCKHGpGD5fn3lQvqjdMHijm9L8ETp5NXNoLfrJVBgnt\u002BfpjQn968bH74Sp9C3d0IXRTWfXvJqMnzrAhL\u002BIxb/rv\u002BcDB2eeyN2Il9yVnqs6VLEF7u0YjQC0mkTwklYCnxFyhqYW6A4WVEPEsh3PfF76yHjsQ5W6bAa\u002BhqtVDYuLPNdLrzMj5vKyKCjp6uzxI9lHYvohKDFkd8s9tZ0n7s9ecx/4G\u002B0XF9q5GzIPSgCdCpSEmAiSvzw81Lqk45t\u002Bz1/OVzzZNBVZEkYAs90ClaCjHD3hX3mT7tnr5NV/EKI0aMo1fG0arzqID2AfuUu8Fmyeqa\u002BvAOodtJbJPUXFl0Iff/12M0oEGul7Il38ialUDBK"
+  "Signature": "MhjsCFXyDGa6ssg5SorIIlrS/NkVkL294uF9cRVGhUfsDNAf7kHz2f0vdASqUUD15zpfdO4gduiK8lzvF0DOXE3Poc5J5SW5j6wDa5ilN7nDIW0rxTCmVy2vFKKyGd1KhWB2iKYl0FOrL\u002Br1yQ/Dnav\u002BduhSPZYLSayKUdU6HKfTTspzYuhFXV4cvwyMNGOJ6MWL\u002BkbFeAxLeL9ucuyLKsYTxMxmGz4rCBRuUtsxGZuK3NQVG8paW4eJLMc5owlmavhyY7CGBXLbLnkUwV3Dn1K1dttf8eE/qkfuY78AFX7MgEoviZqDMJMpaJb7CLkJylxBMTrLmidFdVrULANmU9EPMd1CEhBO55jLxRhzbA1Jf89w4AucL/9H\u002Bckx\u002BnSsU2YyvuhS5h7qv\u002BAwGCbtslOxpKNuqaOlD3guJcrUluUgg6zhO0Yl1YWD2jm96I7g06xM7fiJmNESYVCBQD7DfZTf/Jm0bM00wzbBU4vVdkMaN0sln\u002B6aaABxF88oZVYy"
 }
