@@ -1,7 +1,19 @@
 {
-  "Version": "1.0.53",
-  "ManifestId": "celestial-1.0.53",
+  "Version": "1.0.54",
+  "ManifestId": "celestial-1.0.54",
   "Files": [
+    {
+      "Path": "system/InterfaceClassic.u",
+      "Sha256": "20D3F71F6A73CFBDA9B284C1CBE8CAFD9CBA5979FCA9DE390F87D8E88EA6270E",
+      "Size": 14397304,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.54/system__InterfaceClassic.u"
+    },
+    {
+      "Path": "system/eu/NewQuestData_ClassicAden-eu.dat",
+      "Sha256": "B55A8C5A658432CC4896A9AFAE851854B53669A8D7562D8634A2D6450BDE8C0D",
+      "Size": 10800,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.54/system__eu__NewQuestData_ClassicAden-eu.dat"
+    },
     {
       "Path": "SysTextures/sp_32b_01.bmp",
       "Sha256": "57FC30CAAE89D02D587411A710F47DCEC933D623EE903E3CCFDF71E1C4993A17",
@@ -685,12 +697,6 @@
       "Sha256": "48048354C95A152ACF53751B958C8B59A3418020EB534ADE1D3D43723DB009F6",
       "Size": 2238807,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.52/system__CelestialTokenHead.u"
-    },
-    {
-      "Path": "system/InterfaceClassic.u",
-      "Sha256": "49E132B158A58FF198559FBE68F2628506060DC3D5BCDBD6EF033D48A9559FDD",
-      "Size": 14397304,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.52/system__InterfaceClassic.u"
     },
     {
       "Path": "system/InterfaceClassic.xdat",
@@ -1384,5 +1390,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "Rwyl3Vi3Lq56\u002BFsH3jdWat/7Di4w1U5Y/M/N9S68/T8KH14/DK/XTyZqZVYBDqLs2NHwMr9yyQpiUT6EmFl6tugMKnaRuitn5ixS3FDNd2XFvRZu3P2mOwE9EQovgjSaFo0cvyqezc6lKrBNJkj5s1J6gbT8jtxzioWDu/lrJ3ShYceLcItIzOtb7\u002BNicorsqtmUq97Cf2lYgAN7EdjvUIYWohIi63eC4WBGEp2ewQIDfXHqyHLg/\u002BeYcnOmJJMRA2rlJRFe54iPSSgvxT0WaBufvn5y8K4I2q9knTphGGQ\u002BlE2zh2fLWxuD/1T99r29ua4zgpKFRZ8SKyMbKE4XAQpgU1i2huh7mLgOfikWNz1klfkpQ/\u002Bnjeqy/763RdMGw3tqAObBZ7rwClNE809zOv6sX/9n6/IiM\u002BkAWDDBQ3iuaFlQePVTM0zQvu8avsBIHWh9lfbgfDJQ4T6ZSJf19Y7n/1RBEvWwQhdGcDupMOI4jm4JywrKTPBo7pnRdg\u002B8"
+  "Signature": "opMvULZwqAgW1AiVJCI4fagASq/ND9Tat\u002BrMSz0rkqW90IXdhA1OAAZfbucUmmUQPcWN8X57EWw/2yMjHB0GHcZoT2l4C1fL/cgflSg4EGg8c2VrO6VU3djvRIc7F7AhU8JBt3ylOEl\u002BJuOn7MsOcr6LYtv/1mfLnQliFmB85sB8Dhmv1s9/L6BsY/TQHyTLoEiznOtwqlYfOabwHiHzX/uiSIZNb6mmYhWBbGpNQrxnyKppHVf07fDEJEcflB02f7tcgqhsxKkkeSE2J8gPaJK/cmNAsfOvdCCc4hWIMG\u002BOXc1cvb0esKSzjskxxL3ajel0za2UI5E50jROqxE/GVXomb/KuhR8ZlmS75fu\u002B6WCPa3bYr1HHRnEYKXiLt0F5C8Xg8FpWGrcZZjIriYQiQYD0KfsKTzZvO/L5Z9Q7W0\u002Bs1Qal\u002BL3OfqSnVqWmO2ftPVERq7uOs9YtVYq2G4ughFwKCEq949zQNxsA\u002BFNb19Cjy5S\u002BwFAMnI4Sh04uByK"
 }
