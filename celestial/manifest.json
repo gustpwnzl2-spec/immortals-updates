@@ -1,7 +1,13 @@
 {
-  "Version": "1.0.68",
-  "ManifestId": "celestial-1.0.68",
+  "Version": "1.0.69",
+  "ManifestId": "celestial-1.0.69",
   "Files": [
+    {
+      "Path": "system/User.ini",
+      "Sha256": "F751A58C1B946C4F77C24DD53688A286B282D0668C80C25F2C9F9722A3040EE4",
+      "Size": 6192,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.69/system__User.ini"
+    },
     {
       "Path": "system/es/L2GameDataName.dat",
       "Sha256": "8E8E043F2929412E56268F05379E5B1B5A360C2840E54FCB7678DEA89A59086C",
@@ -1420,5 +1426,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "XWABh16pfiMfxINq798t\u002BEY1qEEN7aRudEBuP3WyItK8qPEegSsehj\u002BxgxQZ4bkhUgsQ4qSiJi3L1nMSODLWHvavPKK/nUKeRMkpfwfTLj7YZ/rNeAE9wjCHDgAZojXmy7eHB6EvGJPt\u002B9DUKfKwbEBMqDcn/YdOx26lpAQ80aG1dmliy4PyX0WLvXuDLBsJB7hm2rRQuVqhOApeGSqGMtvEn5vcMIgACi0ZzI/g6oA3ndomvugP6\u002BRHOHPdksAgHK5lzSWHX/XInT7rl/xTZ0xsDuWcNdQWnV4GCbgyS6fv6YK90EdscYLtTfJrnICuLofFqlHGoyFftxxQb3E/sCSSVLKrZwc/VJIImJQHjJk3mbrAwnrJiWv6b2sRbU5wQKqsXGU79alA8jeixJqA0Rs3PI1dRgX3Ry\u002Bwh5Gj7r\u002BR5UFvMhP5D2k/zD4SbHvP1NEarHctAhhmgf0scUAqm\u002B5ndwipV7/FcxxCcz3eCql0M511D9/mCGC/Lhy6qq6n"
+  "Signature": "FpHW/OntWxiLlelaDXyJVuA3w9DgVaYsjFAo5vi9IzmBVe\u002Bu3uROgeiAdL4X0L0mQQBZ0gvZPGAqOihd/IGuVviMG3EGxeaw85UQZcqgsKEHxa9s4D59GTfmwCZ1p4Vhosguv3JtPps2C4b0mH/Bw96/KH7igy4KPcP7NoiTCC6My6Ut2TZErIvWIYyuTj/EBcjA\u002B1n0IKkqA2ejAxWHmtx7Y1QpTnVF1oLG0pTXESJpHmRJoVqDDSyVzgVsCrG/TBNbiM5aeuOzC1BCCOZ3hWr9W9tlPvB0\u002BkrPWc7EpjqCaZ/dXM3K\u002B8HdNcA7wKXLdF7CCEv64F79PpWppopHYQQCjrwPJvm0MP0tcr/nTcLea/AMw\u002BWnmUVIqhkR8YBqeZwn41L6M/gTUnNnxyo3oJZQVbaxf7ZZPczuDAimxIyMWFcE8C91bsIUEAWBGKqSU1qQkPFzN6Tb24Te2RNUmMY0p4XfJSeiIvDLMdQUv7QDqNeWxwA1WgWAJ1jfcaeB"
 }
