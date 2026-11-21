@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.67",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.67",
+    "description": "DKP Group completo (membros, cargos, warehouse, DKP Shop, leiloes e Ranking Bonuses), Inspect de jogador no layout novo, Tactical ping de Clan, Command Channel e Party (marcador no chao com cor por grupo), brilho de Hero na Bartz, efeitos visuais da Bartz, correcao das skills da Bartz que faltavam para quem instalou depois da 1.0.61.",
+    "date": "2026-11-20",
+    "order": -65,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.67"
+  },
+  {
     "id": "celestial-1.0.66",
     "category": "atualizacoes",
     "title": "Celestial 1.0.66",
