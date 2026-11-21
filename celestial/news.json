@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.68",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.68",
+    "description": "Idiomas espanhol e polones: Tactical ping de Clan, Command Channel e Party (skills, nomes e icones), brilho de Hero e efeitos visuais da Bartz, que antes so funcionavam em ingles.",
+    "date": "2026-11-21",
+    "order": -66,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.68"
+  },
+  {
     "id": "celestial-1.0.67",
     "category": "atualizacoes",
     "title": "Celestial 1.0.67",
