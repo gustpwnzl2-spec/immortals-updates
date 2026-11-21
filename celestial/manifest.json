@@ -1,7 +1,25 @@
 {
-  "Version": "1.0.69",
-  "ManifestId": "celestial-1.0.69",
+  "Version": "1.0.70",
+  "ManifestId": "celestial-1.0.70",
   "Files": [
+    {
+      "Path": "system/eu/Skillgrp_ClassicAden.dat",
+      "Sha256": "C028B71BE5745C31950B7F79677F9B5765A8D766BBE3C29983E036EED51A84D2",
+      "Size": 496048,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.70/system__eu__Skillgrp_ClassicAden.dat"
+    },
+    {
+      "Path": "system/es/Skillgrp_ClassicAden.dat",
+      "Sha256": "A8A57FF224D95EE55B7B4900EB8E398107564F058A1A07841E96A98365CB6093",
+      "Size": 492208,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.70/system__es__Skillgrp_ClassicAden.dat"
+    },
+    {
+      "Path": "system/pl/Skillgrp_ClassicAden.dat",
+      "Sha256": "284864F547554EEA352267F34AAA30510BB633245036489EF06D3317ECB18FE8",
+      "Size": 492208,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.70/system__pl__Skillgrp_ClassicAden.dat"
+    },
     {
       "Path": "system/User.ini",
       "Sha256": "F751A58C1B946C4F77C24DD53688A286B282D0668C80C25F2C9F9722A3040EE4",
@@ -13,12 +31,6 @@
       "Sha256": "8E8E043F2929412E56268F05379E5B1B5A360C2840E54FCB7678DEA89A59086C",
       "Size": 1054768,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.68/system__es__L2GameDataName.dat"
-    },
-    {
-      "Path": "system/es/Skillgrp_ClassicAden.dat",
-      "Sha256": "7D0C4D903267D8B2368B7301D42D4F151C2856389985EFA6973F806439530A2B",
-      "Size": 492208,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.68/system__es__Skillgrp_ClassicAden.dat"
     },
     {
       "Path": "system/es/SkillName_ClassicAden-es.dat",
@@ -37,12 +49,6 @@
       "Sha256": "258B7AD090FE816421A09046D7555AE80DB3010EEA76C4AD6227B297597478B4",
       "Size": 1062192,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.68/system__pl__L2GameDataName.dat"
-    },
-    {
-      "Path": "system/pl/Skillgrp_ClassicAden.dat",
-      "Sha256": "A5151F74DB68F03CE00280F1F40707913412D3F1CB75CCAA442AAD883AADA69E",
-      "Size": 492208,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.68/system__pl__Skillgrp_ClassicAden.dat"
     },
     {
       "Path": "system/pl/SkillName_ClassicAden-pl.dat",
@@ -109,12 +115,6 @@
       "Sha256": "E41C6BB300279F5AB73DADBCDBDAB4643606F5D6752446C91C12A3FD2267FF62",
       "Size": 964784,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.67/system__eu__SkillName_ClassicAden-eu.dat"
-    },
-    {
-      "Path": "system/eu/Skillgrp_ClassicAden.dat",
-      "Sha256": "F17EF9B5DD0D152BC30B7F428B5B09B375BEBC4209177337EC6A2529165816CF",
-      "Size": 495152,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.67/system__eu__Skillgrp_ClassicAden.dat"
     },
     {
       "Path": "system/eu/SkillAcquire_ClassicAden.dat",
@@ -1426,5 +1426,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "FpHW/OntWxiLlelaDXyJVuA3w9DgVaYsjFAo5vi9IzmBVe\u002Bu3uROgeiAdL4X0L0mQQBZ0gvZPGAqOihd/IGuVviMG3EGxeaw85UQZcqgsKEHxa9s4D59GTfmwCZ1p4Vhosguv3JtPps2C4b0mH/Bw96/KH7igy4KPcP7NoiTCC6My6Ut2TZErIvWIYyuTj/EBcjA\u002B1n0IKkqA2ejAxWHmtx7Y1QpTnVF1oLG0pTXESJpHmRJoVqDDSyVzgVsCrG/TBNbiM5aeuOzC1BCCOZ3hWr9W9tlPvB0\u002BkrPWc7EpjqCaZ/dXM3K\u002B8HdNcA7wKXLdF7CCEv64F79PpWppopHYQQCjrwPJvm0MP0tcr/nTcLea/AMw\u002BWnmUVIqhkR8YBqeZwn41L6M/gTUnNnxyo3oJZQVbaxf7ZZPczuDAimxIyMWFcE8C91bsIUEAWBGKqSU1qQkPFzN6Tb24Te2RNUmMY0p4XfJSeiIvDLMdQUv7QDqNeWxwA1WgWAJ1jfcaeB"
+  "Signature": "Zz/JXn22hmLBtFvuhILPTw8lnAYjjiIvJAdyIknle2PV\u002BxqvqDWN1Szig1Z2/aJFMcuje/3TRATZGkhL7gytbWQ9wgQ0xZBEWTMCsqW5Y5QIpd5JvXljCalugkW4nRm8/Zqq250BHMns0FGv7VRbbAGJjVCbr95\u002Bs0fqxcSRTIeTmjexrIv4apcAuLRYE4OwOPoKfYSs7YuHfz4oDCM\u002BFrVb1G0\u002BkBmpe5hNTOn6A32eajtTb5R1fAQbRMbAZedPE4u8IO5dN327dlEUOTiC9F25PN4wg\u002B1ku\u002BP1sG/RB3rLbJXSmRWtwf/Z1ggn/wvpw9XnKjsEN2tUv3W9ibGJ5ULsyhCARIheufNYqoVfzPO/Nu929\u002BihIKoOkogcTeyAQ1kJW0J6ejbqWVsJdEMjNeru3CVH5yHfc2Wyj0fBY5fdbcpa\u002BzvGAD1UJH/d0UtaPsYOPenV0HPUhCoM69FXk6gTLMsPXPembkrCuTgbVZ\u002BcatdW/AK2/YGlgWtQHdJk"
 }
