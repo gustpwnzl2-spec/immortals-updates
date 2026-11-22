@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.73",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.73 — Interface, DKP e recuperação do cliente",
+    "description": "Restaurados Player Inspect, Hunt Pass, menu e leilão DKP com martelo animado, Celestial Settings, controles do HUD, inventário e Auto Hunting. Inclui os arquivos de itens e animações da sessão e mantém o balanceamento de habilidades da versão 1.0.72.",
+    "date": "2026-11-22",
+    "order": -70,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.73"
+  },
+  {
     "id": "celestial-1.0.72",
     "category": "atualizacoes",
     "title": "Balance Celestial v1.0",
