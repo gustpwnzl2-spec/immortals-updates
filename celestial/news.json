@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.79",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.79",
+    "description": "Bartz: postura de combate com a adaga empunhada também quando parado.",
+    "date": "2026-11-22",
+    "order": -1,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.79"
+  },
+  {
     "id": "celestial-1.0.78",
     "category": "atualizacoes",
     "title": "Celestial 1.0.78",

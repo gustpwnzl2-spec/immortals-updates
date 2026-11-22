@@ -1,7 +1,13 @@
 {
-  "Version": "1.0.78",
-  "ManifestId": "celestial-1.0.78",
+  "Version": "1.0.79",
+  "ManifestId": "celestial-1.0.79",
   "Files": [
+    {
+      "Path": "system/eu/PawnAnimData.dat",
+      "Sha256": "E9F4D038D7160BF63D6C09119A9846C011C2657B97B7D081E0736511BFD23BF5",
+      "Size": 287280,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.79/system__eu__PawnAnimData.dat"
+    },
     {
       "Path": "system/LineageWarrior.u",
       "Sha256": "9E872BD521EDDFF0E3E98481A2F391B872361B8D9F0C174B1CE7A16665BB80D0",
@@ -1179,12 +1185,6 @@
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.52/system__eu__Logongrp_Classic.dat"
     },
     {
-      "Path": "system/eu/PawnAnimData.dat",
-      "Sha256": "881C4ACD1E26D4A35DD9B6E97859FFF43AD4DD640E0F3AEDC10E6BA758EAB777",
-      "Size": 287280,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.52/system__eu__PawnAnimData.dat"
-    },
-    {
       "Path": "system/eu/SysString_Classic-eu.dat",
       "Sha256": "F79B54582A6F6B5072898E46E8A16F5806CC631B6751B8CE413F053E4AB8BAAC",
       "Size": 88880,
@@ -1600,5 +1600,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "oEHQ8meBhSeqU6AiMyD9EW14rZkZ8Z/B1fzHRPt\u002Bs\u002BwBsRQMGHMXvKu2rLJL6lJC5dOaHcU1LQMNxfzYGF7GcFsGWjWZUk7Bpb/mog2naG\u002BcAesRpwKcx4pf20M0J2Dgbcoi0yPHUxzJ3A8ksAvc6NSxn8AH\u002BoMDLSIUMmA2LMBHQ/QerBjoBIhGPpyHvQ4vpmBV9pkZQyLOOGeTidXCiL23Fzy7gWHbbjKELxJ\u002BjOusfg\u002BvRicANNOUsUSZGfEw41d\u002BVSLC3ldp63Rjr8XIoEfXB63Jz2vkGFCfw4Mzbb0YzHYR706AHEdACLOa7haSH5K1IXQVoMlmav30BjwwOvk/e5GArMQwYG0x1MH/DYi8NX\u002BsUs4pCfyIq0cpn67o6YTHw5Ufwxa0\u002Bl4YD2bDDq8yDEAWqjvM\u002BihD\u002BQ9b\u002BqOOikPwPgTSGY/jcMKoJs1xsy9HdUfn2oQ23\u002BNf32q61JrQ278Ik/niiAdeUvUT2DGPlOgqBykAe/TlnDO9GyHt"
+  "Signature": "R2DlCL4l9pYYD6iaZuJSeJM3K/Me/VnpMem5NL9\u002BGYg8TbaArZF77exjo6513OrRolcQTSI8HnBcAnCVFsreYvxBJGcQJoCY7kt6AzYByO6F8rt1I/LnkO1IDd3nZ/O5sgb24hjtl5Olr5tlU4tEt9BgT6bDeLtxI6gDFyvGquO7ynGzPVYQw\u002B/6xjknI\u002BWEb1x\u002BjriosXrqOycdRpMZKFb\u002BwXYa7Z1U9yKtCTINR3PoldIgSX4toQHEowhMoB9o4umdJD52EYbSHT3g0xFTqlLvbOd2qKQ0IEq9znrXQyPmXqyVOCJcOSY1X4Rpg1af2b3m8M/RznkixLgJcCJR8xn0mAnJoRPofQSRi1GBQBODhhgrOwPCq8rNtg\u002ByC2K1NI2jolz8G/NDmsERGoT69/uApesGGPjG2pwamrNxn1jWMV2vLX7N7hEhKVFUji/kjegYgXecn3REDqaueBBCoROp2H9Xw3TczeshJ/lHVZAGLekU1P51BPwx1S5AZWNo"
 }
