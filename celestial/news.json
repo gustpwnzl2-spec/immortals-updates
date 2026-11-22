@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.74",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.74 — Recuperação consolidada",
+    "description": "Recuperação consolidada de Player Inspect, Hunt Pass, DKP, Celestial Settings e Auto Hunting. Inclui a revisão final da seleção de aparência da Bartz em EU, ES e PL e preserva as habilidades da 1.0.72.",
+    "date": "2026-11-22",
+    "order": -71,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.74"
+  },
+  {
     "id": "celestial-1.0.73",
     "category": "atualizacoes",
     "title": "Celestial 1.0.73 — Interface, DKP e recuperação do cliente",

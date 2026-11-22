@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.73",
-  "ManifestId": "celestial-1.0.73",
+  "Version": "1.0.74",
+  "ManifestId": "celestial-1.0.74",
   "Files": [
     {
       "Path": "system/Interface.u",
@@ -63,34 +63,16 @@
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.73/SysTextures__CelestialAuctionIntro.utx"
     },
     {
-      "Path": "system/eu/WeaponGradeLookChange_ClassicAden.dat",
-      "Sha256": "F896387D829B8F97CB3236646EA0A14A833CF0B82F2F9EF35B7FA1A3B3E0AB29",
-      "Size": 560,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.73/system__eu__WeaponGradeLookChange_ClassicAden.dat"
-    },
-    {
       "Path": "system/eu/ItemName_ClassicAden-eu.dat",
       "Sha256": "4B3932DE2CCEE7B02E066EEC7A0B24C7A2B350CEAC701B826BEC53B8D53D44FE",
       "Size": 630320,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.73/system__eu__ItemName_ClassicAden-eu.dat"
     },
     {
-      "Path": "system/es/WeaponGradeLookChange_ClassicAden.dat",
-      "Sha256": "F896387D829B8F97CB3236646EA0A14A833CF0B82F2F9EF35B7FA1A3B3E0AB29",
-      "Size": 560,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.73/system__es__WeaponGradeLookChange_ClassicAden.dat"
-    },
-    {
       "Path": "system/es/ItemName_ClassicAden-es.dat",
       "Sha256": "45CCB8BC2AA522B907C28A4D7DA26495DF82A0D3EA35E93E331ED576B8BE417E",
       "Size": 653616,
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.73/system__es__ItemName_ClassicAden-es.dat"
-    },
-    {
-      "Path": "system/pl/WeaponGradeLookChange_ClassicAden.dat",
-      "Sha256": "F896387D829B8F97CB3236646EA0A14A833CF0B82F2F9EF35B7FA1A3B3E0AB29",
-      "Size": 560,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.73/system__pl__WeaponGradeLookChange_ClassicAden.dat"
     },
     {
       "Path": "system/pl/ItemName_ClassicAden-pl.dat",
@@ -1591,8 +1573,26 @@
       "Sha256": "4E97D1D02491739D45FC1C81F7F37A0F987DE8DF02A9DCFFA663A9F9380DFE14",
       "Size": 666440,
       "DownloadUrl": "https://raw.githubusercontent.com/gustpwnzl2-spec/immortals-updates/e21ae19b5342af18a289033d192daa70d1577eb5/celestial/assets/1.0.50/SysTextures/CelestialHuntNativeAssets.utx"
+    },
+    {
+      "Path": "system/pl/WeaponGradeLookChange_ClassicAden.dat",
+      "Sha256": "57A445D1C472F52EB82B124D684A22DDCF8ECCA5371459B6D05C0ED4F5356181",
+      "Size": 560,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.74/system__pl__WeaponGradeLookChange_ClassicAden.dat"
+    },
+    {
+      "Path": "system/eu/WeaponGradeLookChange_ClassicAden.dat",
+      "Sha256": "57A445D1C472F52EB82B124D684A22DDCF8ECCA5371459B6D05C0ED4F5356181",
+      "Size": 560,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.74/system__eu__WeaponGradeLookChange_ClassicAden.dat"
+    },
+    {
+      "Path": "system/es/WeaponGradeLookChange_ClassicAden.dat",
+      "Sha256": "57A445D1C472F52EB82B124D684A22DDCF8ECCA5371459B6D05C0ED4F5356181",
+      "Size": 560,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.74/system__es__WeaponGradeLookChange_ClassicAden.dat"
     }
   ],
   "RemovedFiles": [],
-  "Signature": "yht7AOm8Yg9cjAID2TGEDVm4W1BDaiWPz4/gB3OAPBNqRfF2HxWbMIn\u002BtBmsmdxZk1E87tXHPigHiIHsvJ6DcKaplZXlghiKT5M\u002BGaTAI9HoDjh50pTud7PWllKBR8D/DniHbiYa\u002B8X/GQIGktHjqcL/rGqODr4ObvJjb/ya9ThG21LQOznmE9aZ2AKkTzAtxdsjasGg0XrP1IyD1jIO0avjdu7L2h90B9oh29BiPEBijasxDW3byG\u002Biek23KqOf4FPrYZwALffRQ42LXH3R\u002BCe1l0gxAcOxCbCmZRaIudJ2kSLRwF20vWZmgCS2CAktJonGZ5KdgY5aOSKYb9GFcLi9q/eHMpVVZksrdCHudUkdOIaUtcbRtmlEzGEcOPGCHwCHjtY18G45ru5Yon4csSWYCrMOD8yYScuKcarI41eq3VcYmbkVgPeUUyDTPwZqb2gWqSMl\u002BzMNy7TWNNTbep5MjEKmoF\u002BGlNvD8f/ZksVcsFAHIU6ouuzECmn5iNAS"
+  "Signature": "C6Iy\u002BXAkyUZs6XBG7y5m4Zd\u002BLJ23ogxIOMd0x90FSq5F043/3F1rKBBK8ykKVrGTHyQsBFGNykRYQh8sej5y6fH19HtQ1m9Zwqf\u002BWkWs6V7cuyPCCJiyb\u002BMwx3Pfiy/ZLfS\u002BLH1vUKTJlD5i3Jsdv26l6nlrJo3LjPvph3Ke5zs6JWVv3ujAQLp057OptfB1OHHRDUsBf1HMdVDs5rUIEO3vUK/dMVfXpIAx7oMmsEgXgJE8cDxQFXjmxXacJisLNSmCNt8Hww7nidK6MhdWDZRS8ViI6yaLmQ7G8dhUXO3qPbqIv3EDF0p7c5EtKcoqNHQLfyUFGDML5OwtKPaUB80xROqj8PP07eYiv9tz8gPUujTiqZG5JtXEGcUdSZHCgzl7AwekTooAW3PINNv7XB45xEmoB5COJoEXp1wimnmOLZy2rtUm1E6y8pnGgrgGPeWW3SNkqXLdrvy544NyLWwrXfczQ4a4Z64yZVS0HdO0E/4BxVyrtb3XcOBT0SYB"
 }
