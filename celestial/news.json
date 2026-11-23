@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.80",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.80",
+    "description": "Melhorias de desempenho durante o farm. A interface reduz atualizações desnecessárias do inventário e do medidor de DPS fechado. Os números flutuantes de dano ficam desativados. A barra de alvo Classic volta a aparecer ao selecionar um alvo. O servidor também recebeu um ajuste na recarga das variantes de habilidades do Bartz.",
+    "date": "2026-11-23",
+    "order": -2,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.80"
+  },
+  {
     "id": "celestial-1.0.79",
     "category": "atualizacoes",
     "title": "Celestial 1.0.79",
