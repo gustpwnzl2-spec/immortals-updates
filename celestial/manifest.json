@@ -1,7 +1,13 @@
 {
-  "Version": "1.0.80",
-  "ManifestId": "celestial-1.0.80",
+  "Version": "1.0.81",
+  "ManifestId": "celestial-1.0.81",
   "Files": [
+    {
+      "Path": "SysTextures/ImmortalsLoadingAssets.utx",
+      "Sha256": "FCD25BD0B05CC54F5FF56FE749217188E2CBF1A68449404ED49C08448E59EB21",
+      "Size": 16778047,
+      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.81/SysTextures__ImmortalsLoadingAssets.utx"
+    },
     {
       "Path": "system/Interface.u",
       "Sha256": "75B3F6B56AACEA4D17C2B7822DB80F46D67275FCA817F9B0D418C15A34A1143C",
@@ -1515,12 +1521,6 @@
       "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.2/SysTextures__ImmortalsHuntLogo.utx"
     },
     {
-      "Path": "SysTextures/ImmortalsLoadingAssets.utx",
-      "Sha256": "662890B297772F15AA756E8D79F17F08C28AB714CC9E93EA23245A995FA01555",
-      "Size": 16778047,
-      "DownloadUrl": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/download/celestial-v1.0.2/SysTextures__ImmortalsLoadingAssets.utx"
-    },
-    {
       "Path": "SysTextures/ImmortalsMeterAssets.utx",
       "Sha256": "CAF3AA7544E20C77336367942968E400B8218A36632A099ABCFBF91255A5D8CF",
       "Size": 332257,
@@ -1600,5 +1600,5 @@
     }
   ],
   "RemovedFiles": [],
-  "Signature": "fvLVjsvt2xVFpRgw1hx1a9W3/UZ8p9APw/PSS49dgGdYHj9WfWlritgS2zfelaFxdWVlqMDdC6qr4oyzGUWb0RiATx8gVuuMhbsngYloluzEKe7MD0k\u002BSd9mHYPok2RAWbTzu7TKtBUahF87yjThOXqXGLWYlAQYu6hqrgdkArOoj\u002BG7KJBaJ4IqJPWUFYplc3d/8ecSN1kuVnRaCKnOYh306UxYy\u002B0r/8puAoF51TjqVrnBafcbG6q4sguGkSeFtBQA61hN6mp47K8qSqoNrsV52p9PZXQh66Wh2M/J7/barsvWBHvzRE7psJLSvLFq7LOm1BJfFYjsvP0CUZl5j/trTvc9jLVgDe2Mqt7dTT0jMUQPz9QaAgkUtYmc9qxeCOMTyyTqoUAKDvLPHE8lsUCgthoOD/AWNfl4g4yp3GwzhWWmhoiXEs1DlbJj4x/UlbHXEk\u002BH1/aCrd3cbassN\u002BEbow0X11Q2VU0K2iycQ43sUX8vnzOzmhM9MVLprI9y"
+  "Signature": "RPx61QgCF8zrmnED2WUNh2Mld/rJUPqkSrnYX0sETd8EQgJW0rr11sxGaneiWogbbVChlfeA9eEaaOTFc7rG3jwpBWY9DdyeRybi\u002BSk2bhNHgjNTS/uZKeu9m2XlKdylEqppGGfyQpA73DCipvmCWeoC6A6SnVbImxCJdG8vpDUlkMsSmJEwuFasNIH0tsc37XsZmme0q0XOgkzwx7/aHECgaHwZneGQNVydnj1Ayt56IMmqvinOtvZ1kACx1B7Qy1RaH3/TaA\u002BUQS3F8OkX\u002BUx7xxmf1acWkDBP1Oahm7S3\u002BGICnVheWWzs5vkKDgo7jzdNqxiTSovGFK/H2Vl\u002Bi1dWLVAnH93f45hqOuupxW\u002BTLTGVjzh\u002BbVEClpiAhQB03zCrrJksLq0PDRc1HF/S6bpb5AbVNgxXXN0XndaZ6Qci/sQb\u002BBbI60XeXfdr9VwZaIeQ9VxpBbFLbDhMtWtcwcr06cMxJxaf53wZQUJFQjsiVc\u002BKw/SipSR6s4Zz65D\u002B"
 }
