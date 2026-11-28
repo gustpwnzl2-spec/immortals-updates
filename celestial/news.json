@@ -1,5 +1,14 @@
 [
   {
+    "id": "celestial-1.0.85",
+    "category": "atualizacoes",
+    "title": "Celestial 1.0.85",
+    "description": "Nova Rune of Attribute: runa de inventário com 30 dias, +50% de XP de atributo, P./M. Atk +100, P./M. Def +100 e Atk./Casting Spd +50. Segure CTRL sobre um item para fixar o tooltip, agora com o Gear Score do item. O Life Control Tower ganhou uso automático na barra de atalhos. A câmera pode ser afastada mais. No servidor: o Augmenting Stone Pack agora entrega Life Stones do Essence (1 a 3), os bosses Elite solo ganharam drops de Magic Tablet, Common Spellbook, Pack de L-Coin e Augmenting Stone Pack, e o show drop mostra só a quantidade, sem chances.",
+    "date": "2026-11-28",
+    "order": -3,
+    "url": "https://github.com/gustpwnzl2-spec/immortals-updates/releases/tag/celestial-v1.0.85"
+  },
+  {
     "id": "celestial-1.0.80",
     "category": "atualizacoes",
     "title": "Celestial 1.0.80",
